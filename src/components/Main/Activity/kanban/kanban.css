@@ -1,0 +1,58 @@
+.Status{
+    color:white;
+    
+}
+.cardstyling{
+    color: white;
+    width: 250px;
+    background-color: rgb(31, 30, 30);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.addiconkanban{
+   cursor: pointer;
+   font-size: 26px;
+   color: #67737A;
+   /* margin-left: auto; */
+  }
+  .deleteiconkanban{
+    font-size: 20px;
+   color: #67737A;
+   cursor: pointer;
+   /* margin-left: 137px; */
+  }
+  .editiconkanban{
+  
+        color: grey;
+        cursor: pointer;
+  }
+.heading{
+    display: flex;
+    width: 220px;
+    /* width:250px;
+    margin-right: 60px; */
+    
+}
+
+@media(min-width:600px)
+{
+    .addKanbanmain{
+        margin-left: 250px;
+    }
+}
+@media (max-width:600px) {
+    .addKanbanmain {
+      width: 100% !important;
+    }  
+  }
+.pop-content-new {
+    background-color: #202328;
+    text-align: center;
+    align-items: center;
+}
+.addnewgroup{
+    color: white;
+    font-size: 26px;
+    margin-bottom: 20px;
+}

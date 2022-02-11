@@ -1,0 +1,1290 @@
+.Leavelist{
+    background-color: #202328;
+    margin-left:14%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.RLeavelist{
+    background-color: #202328;
+    margin-left:14%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.noleavetext{
+    margin-left:50%;
+
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+
+color: #A3AAAE;
+}
+.leaveicon{
+    margin-left: 32px;
+    margin-top:52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+}
+.Leaveheadinglist{
+    margin-left:40px;
+    margin-top: 32px;
+
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+}
+
+.leavereason{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #A3AAAE;
+
+}
+
+
+.requestby{
+    margin-left:2%;
+    /* margin-top: -40px; */
+    margin-bottom:20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #67737A;
+} 
+
+.requestbystatus{
+    /* margin-left:13%;
+        margin-top: -41px; */
+        /* margin-bottom:10px; */
+        margin-left:2%;
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+        line-height: 23px;
+        color: #67737A;
+    } 
+
+
+.requestbystatuspending{
+    /* margin-left: 97%;
+    margin-top:-22px; */
+        margin-left:4px;
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+        line-height: 23px;
+        color: #948A8A;
+    } 
+    .requestbystatusaccepted{
+/* margin-left: 1px;
+        margin-top: -22px;
+        margin-left: 90%;
+        margin-bottom:10px; */
+        margin-left:4px;
+        
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+line-height: 23px;
+color: #22D273
+    }
+    .requestbystatusrejected{
+        /* margin-left: 90%;
+        margin-top: -22px;
+        margin-bottom:10px; */
+        margin-left:4px;
+        
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+line-height: 23px;
+color:  #EB5757;
+    }
+.imagenoactivity{
+    width: 400px;
+height: 154px;
+margin-left: 40%;
+
+
+mix-blend-mode: normal;
+}
+
+.leaveaccept{
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+}
+.leaveaccepted{
+    /* margin-left:70%;
+    margin-top: -10%; */
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    font-family: 'Mulish';
+}
+.leaveacceptedrevoke{
+    margin-top: 75px;
+    
+}
+.leavereject{
+
+
+    width: 160px;
+    height: 49px;
+}
+.leaverejected{
+    margin-left: 10px;
+
+
+    /* margin-left:70%;
+    margin-top: -6%; */
+    
+}
+/* revoke */
+.RevokeLeaveheadinglist{
+    margin-left:40px;
+    margin-top: 32px;
+
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+}
+.revokeleavereason{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #A3AAAE;
+
+}
+.revokerequestby{
+    margin-left:2%;
+    /* margin-top: -40px; */
+    margin-bottom:20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #67737A;
+} 
+.revokeaccepted{
+    /* margin-left:70%;
+    margin-top: -10%; */
+    margin-top: 90px;
+    margin-left: 10px;
+    font-family: 'Mulish';
+}
+    /* make a revoke note */
+    .revokenoteheading{
+        /* margin-top: 5%;
+        margin-left: -50%; */
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+    }
+    .requestnow{
+        margin-top: 10%;
+        margin-left: -20%;
+        margin-right:2% ;
+    }
+    .requestcancels{
+        margin-top: 10%;
+        margin-right:25% ;
+    }
+    .requestcancel{
+        width: 160px;
+        height: 49px;
+    }
+    .revokerequest{
+        width: 160px;
+        height: 49px;
+        background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+    }
+    .noleave{
+        background-color: #202328;
+        margin-left:14%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }    
+
+@media(max-width:1024px){
+.Leavelist{
+    background-color: #202328;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 60px
+}
+.leavecout{
+    margin-top:40px;
+}
+.noleave{
+    background-color: #202328;
+    margin-left:-1%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+
+}
+.RLeavelist{
+    background-color: #202328;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 60px
+}
+.datess{
+    margin-top:15%;
+    margin-left:-25%;
+}
+.Leaveheadinglist{
+    /* margin-left:40px;
+    margin-top: 32px; */
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* Main Text */
+    color: #D4DCE1;
+}
+.revokeLeaveheadinglist{
+    /* margin-left:40px;
+    margin-top: 32px; */
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* Main Text */
+    color: #D4DCE1;
+}
+.revokeaccepted{
+    margin-top: 20px;
+}
+}
+@media(max-width:600px){
+    .Leavelist{
+        padding-bottom: 5%;
+    }
+    .RLeavelist{
+        padding-bottom: 5%;
+    }
+    .requestby,.revokerequestby{
+        margin-left:40px;
+    }
+    .leaveaccepted,.revokeaccepted{
+        margin-left:40px;
+    }
+    .leaverejected{
+        margin-left:40px;
+        margin-bottom:20px;
+    }
+    .requestbystatus{
+        margin-left: 13%;
+    }
+    .leaveacceptedrevoke{
+        margin-top:30px;
+        margin-left:40px;
+    }
+    .leaveicon{
+        padding-left: 110px;;
+    }
+}
+
+
+@media(min-width:1024px) and (max-width:1199px)
+{
+    .Leavelist{
+        background-color: #202328;
+        margin-left:25%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .RLeavelist{
+        background-color: #202328;
+        margin-left:25%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .leaveicon{
+        margin-left: 32px;
+        margin-top:52px;
+        margin-bottom: 52px;
+        margin-right: 32px;
+    }
+    .Leaveheadinglist,.revokeLeaveheadinglist{
+        /* margin-left:20%;
+        margin-top: -25%; */
+
+   
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    }
+    
+    .leavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+     color: #A3AAAE;
+
+    }
+
+
+ .requestby{
+        margin-bottom:20px;
+        margin-left:2%;
+      
+       font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        /* line-height: 150%; 
+        line-height: 23px; */
+        color: #67737A;
+    } 
+
+    .requestbystatus{
+        /* margin-left:16%;
+            margin-top: -41px; */
+            /* margin-bottom:10px; */
+            margin-left:2%;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+
+
+        .requestbystatuspending{
+            /* margin-left: 97%;
+         margin-top:-22px; */
+         margin-left:4px;
+             
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #948A8A;
+            } 
+            .requestbystatusaccepted{
+                /* margin-left: 97%;
+                margin-top:-22px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #22D273
+            }
+            .requestbystatusrejected{
+                /* margin-left: 97%;
+                margin-top:-22px;
+                margin-bottom:10px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color:  #EB5757;
+            }
+    .imagenoactivity{
+        width: 400px;
+    height: 154px;
+    margin-left: 40%;
+    
+    
+    mix-blend-mode: normal;
+    }
+    .noleavetext{
+        margin-left:40%;
+    
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    text-align: center;
+    
+    color: #A3AAAE;
+    }
+
+    .leaveaccept{
+        width: 160px;
+        height: 49px;
+        background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+    }
+    .leaveaccepted,.revokeaccepted{
+        /* margin-left:70%;
+        margin-top: -18%; */
+        font-family: 'Mulish';
+    }
+    .leaveacceptedrevoke{
+        
+    }
+    .leavereject{
+ 
+
+        width: 160px;
+        height: 49px;
+    }
+    .leaverejected{
+    
+
+        /* margin-left:70%;
+        margin-top: -8%; */
+     
+    }
+    /* revoke */
+    
+    .revokeleavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+     color: #A3AAAE;
+
+    }
+    .revokerequestby{
+        /* margin-left:42%;
+            margin-top: 50px;
+margin-bottom:-20px; */
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+       
+          /* make a revoke note */
+          .revokenoteheading{
+            /* margin-top: 5%;
+            margin-left: -50%; */
+            font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+        }
+        .requestnow{
+            margin-top: 10%;
+            margin-left: -20%;
+            margin-right:2% ;
+        }
+        .requestcancels{
+            margin-top: 10%;
+            margin-right:25% ;
+        }
+        .requestcancel{
+            width: 160px;
+            height: 49px;
+        }
+        .revokerequest{
+            width: 160px;
+            height: 49px;
+            background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+        }
+        .noleave{
+            background-color: #202328;
+            margin-left:25%;
+            margin-top:20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        margin-right: 60px
+        }
+}
+
+@media(min-width:1200px) and (max-width:1439px)
+{
+    .Leavelist{
+        background-color: #202328;
+        margin-left:22%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .RLeavelist{
+        background-color: #202328;
+        margin-left:22%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+
+    .leaveicon{
+        margin-left: 32px;
+        margin-top:52px;
+        margin-bottom: 52px;
+        margin-right: 32px;
+    }
+    .Leaveheadinglist,.revokeLeaveheadinglist{
+        /* margin-left:0%;
+        margin-top:2%; */
+
+   
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    }
+    
+    .leavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+     color: #A3AAAE;
+
+    }
+
+
+ .requestby{
+    margin-left:2%;
+
+        margin-bottom:20px;
+      
+       font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+line-height: 23px;
+color: #67737A;
+    } 
+
+    .requestbystatus{
+        /* margin-left:16%;
+            margin-top: -41px; */
+            /* margin-bottom:10px; */
+            margin-left:2%;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+
+
+        .requestbystatuspending{
+            /* margin-left: 97%;
+         margin-top:-22px; */
+         margin-left:4px;
+             
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #948A8A;
+            } 
+            .requestbystatusaccepted{
+                /* margin-left: 97%;
+                margin-top:-22px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #22D273
+            }
+            .requestbystatusrejected{
+                /* margin-left: 97%;
+                margin-top:-22px;
+                margin-bottom:10px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color:  #EB5757;
+            }
+    .imagenoactivity{
+        width: 400px;
+    height: 154px;
+    margin-left: 40%;
+    
+    
+    mix-blend-mode: normal;
+    }
+    .noleavetext{
+        margin-left:40%;
+    
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    text-align: center;
+    
+    color: #A3AAAE;
+    }
+
+    .leaveaccept{
+        width: 160px;
+        height: 49px;
+        background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+    }
+    .leaveaccepted,.revokeaccepted{
+        /* margin-left:70%;
+        margin-top: -15%; */
+        font-family: 'Mulish';
+    }
+    .leaveacceptedrevoke{
+        
+    }
+    .leavereject{
+ 
+
+        width: 160px;
+        height: 49px;
+    }
+    .leaverejected{
+
+        /* margin-left:70%;
+        margin-top: -8%; */
+     
+    }
+    
+    .revokeleavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+     color: #A3AAAE;
+
+    }
+
+    .revokerequestby{
+        margin-left:2%;
+    
+            margin-bottom:20px;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+        
+          /* make a revoke note */
+          .revokenoteheading{
+            /* margin-top: 5%;
+            margin-left: -50%; */
+            font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+        }
+        .requestnow{
+            margin-top: 10%;
+            margin-left: -20%;
+            margin-right:2% ;
+        }
+        .requestcancels{
+            margin-top: 10%;
+            margin-right:25% ;
+        }
+        .requestcancel{
+            width: 160px;
+            height: 49px;
+        }
+        .revokerequest{
+            width: 160px;
+            height: 49px;
+            background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+        }
+        .noleave{
+            background-color: #202328;
+            margin-left:22%;
+            margin-top:20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+
+        }
+
+}
+@media screen and (min-width:1440px) and (max-width:1536px){
+    .Leavelist{
+        background-color: #202328;
+        margin-left:18%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .RLeavelist{
+        background-color: #202328;
+        margin-left:18%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .leaveicon{
+        margin-left: 32px;
+        margin-top:52px;
+        margin-bottom: 52px;
+        margin-right: 32px;
+    }
+    .Leaveheadinglist,.revokeLeaveheadinglist{
+        /* margin-left:8px;
+        margin-top: 32px; */
+
+   
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    }
+    
+    .leavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+         color: #A3AAAE;
+
+    }
+
+
+ .requestby{
+    margin-left:2%;
+
+        margin-bottom:20px;
+      
+       font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+line-height: 23px;
+color: #67737A;
+    } 
+
+    .requestbystatus{
+        /* margin-left:15%;
+            margin-top: -41px; */
+            /* margin-bottom:10px; */
+            margin-left:5%;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+
+
+        .requestbystatuspending{
+            /* margin-left: 97%;
+         margin-top:-22px; */
+         /* margin-left:4px; */
+             
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #948A8A;
+            } 
+            .requestbystatusaccepted{
+                /* margin-left:  95%;
+                margin-top: -22px;
+                margin-bottom:10px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #22D273
+            }
+            .requestbystatusrejected{
+                /* margin-left:  95%;
+                margin-top: -22px;
+                margin-bottom:10px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color:  #EB5757;
+            }
+    .imagenoactivity{
+        width: 400px;
+    height: 154px;
+    margin-left: 40%;
+    
+    
+    mix-blend-mode: normal;
+    }
+    .noleavetext{
+        margin-left:40%;
+    
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    text-align: center;
+    
+    color: #A3AAAE;
+    }
+    .leaveaccept{
+        width: 160px;
+        height: 49px;
+        background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+    }
+    .leaveaccepted,.revokeaccepted{
+        /* margin-left:70%;
+        margin-top: -15%; */
+        font-family: 'Mulish';
+    }
+    .leaveacceptedrevoke{
+        
+    }
+    .leavereject{
+ 
+
+        width: 160px;
+        height: 49px;
+    }
+    .leaverejected{
+    
+
+        /* margin-left:70%;
+        margin-top: -8%; */
+     
+    }
+    
+    .revokeleavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+         color: #A3AAAE;
+
+    }
+
+    .revokerequestby{
+        margin-left:2%;
+    
+            margin-bottom:20px;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+          /* make a revoke note */
+          .revokenoteheading{
+            /* margin-top: 5%;
+            margin-left: -50%; */
+            font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+        }
+        .requestnow{
+            margin-top: 10%;
+            margin-left: -20%;
+            margin-right:2% ;
+        }
+        .requestcancels{
+            margin-top: 10%;
+            margin-right:25% ;
+        }
+        .requestcancel{
+            width: 160px;
+            height: 49px;
+        }
+        .revokerequest{
+            width: 160px;
+            height: 49px;
+            background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+        }
+        .noleave{
+            background-color: #202328;
+            margin-left:18%;
+            margin-top:20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+
+        }
+}
+
+@media screen and (min-width:1600px) and (max-width:1900px){
+    .Leavelist{
+        background-color: #202328;
+        margin-left:16%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .RLeavelist{
+        background-color: #202328;
+        margin-left:16%;
+        margin-top:20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    margin-right: 60px
+    }
+    .leaveicon{
+        margin-left: 32px;
+        margin-top:52px;
+        margin-bottom: 52px;
+        margin-right: 32px;
+    }
+    .Leaveheadinglist,.revokeLeaveheadinglist{
+        /* margin-left:8px;
+        margin-top: 32px; */
+
+   
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    }
+    
+    .leavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+         color: #A3AAAE;
+
+    }
+
+
+ .requestby{
+    margin-left:2%;
+
+        margin-bottom:20px;
+      
+       font-family: 'Mulish';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 150%; 
+line-height: 23px;
+color: #67737A;
+    } 
+
+    .requestbystatus{
+        /* margin-left:13%;
+            margin-top: -41px; */
+            /* margin-bottom:10px; */
+            margin-left:2%;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+
+
+        .requestbystatuspending{
+            /* margin-left: 97%;
+         margin-top:-22px; */
+         margin-left:4px;
+             
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #948A8A;
+            } 
+            .requestbystatusaccepted{
+     /* margin-left:  95%;
+                margin-top: -22px;
+                margin-bottom:10px; */
+                margin-left:4px;
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color: #22D273
+            }
+            .requestbystatusrejected{
+                /* margin-left:  95%;
+                margin-top: -25px;
+                margin-bottom:10px; */
+              
+               font-family: 'Mulish';
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 150%; 
+        line-height: 23px;
+        color:  #EB5757;
+            }
+    .imagenoactivity{
+        width: 400px;
+    height: 154px;
+    margin-left: 40%;
+    
+    
+    mix-blend-mode: normal;
+    }
+
+    .noleavetext{
+        margin-left:40%;
+    
+        font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    text-align: center;
+    
+    color: #A3AAAE;
+    }
+    .leaveaccept{
+        width: 160px;
+        height: 49px;
+        background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+    }
+    .leaveaccepted,.revokeaccepted{
+        /* margin-left:70%;
+        margin-top: -14%; */
+        font-family: 'Mulish';
+    }
+    .leaveacceptedrevoke{
+        
+    }
+    .leavereject{
+ 
+
+        width: 160px;
+        height: 49px;
+    }
+    .leaverejected{
+    
+/* 
+        margin-left:70%;
+        margin-top: -8%; */
+     
+    }
+    
+    .revokeleavereason{
+        margin-left:0%;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 36px;
+         color: #A3AAAE;
+
+    }
+    .revokerequestby{
+        margin-left:2%;
+    
+            margin-bottom:20px;
+          
+           font-family: 'Mulish';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 150%; 
+    line-height: 23px;
+    color: #67737A;
+        } 
+      
+          /* make a revoke note */
+          .revokenoteheading{
+            /* margin-top: 5%;
+            margin-left: -50%; */
+            font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+        }
+        .requestnow{
+            margin-top: 10%;
+            margin-left: -20%;
+            margin-right:2% ;
+        }
+        .requestcancels{
+            margin-top: 10%;
+            margin-right:25% ;
+        }
+        .requestcancel{
+            width: 160px;
+            height: 49px;
+        }
+        .revokerequest{
+            width: 160px;
+            height: 49px;
+            background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+        }
+        .noleave{
+            background-color: #202328;
+            margin-left:16%;
+            margin-top:20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        margin-right: 60px
+        }
+}
+

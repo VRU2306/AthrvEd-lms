@@ -1,0 +1,731 @@
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+/* new ui css */
+/* input[type=file]{
+  display: none;
+} */
+
+.uploadoutline{
+    /* width: 1107px; */
+    height: 750px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 5%;
+    background: #202328;
+    border-radius: 8px;
+  
+  }
+  .upload1icon{
+    margin-top: 5%;
+    margin-left: 45%;
+}
+  .uploadtext{
+    margin-left:48px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+    
+    
+    /* Light Grey2 */
+    
+    color: #A3AAAE;
+}
+.uploadtexts{
+  margin-left: 48px;
+  margin-top: 20px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+  
+  /* Main Text */
+  
+  color: #D4DCE1;
+}
+
+.uploadtextss{
+    margin-left:35%;
+    margin-bottom:2%;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+    
+    
+    /* Light Grey2 */
+    
+    color: #A3AAAE;
+}
+  .Generatepdf{
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+  }
+  .Generatetext{
+    width: 350px;
+    margin-left: 5px;
+    font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 150%;
+  /* or 36px */
+  
+  
+  /* Light Grey2 */
+  
+  color: #A3AAAE;
+  }
+  .startdateer{
+    margin-left:5px;
+  }
+  .startdateers{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+    
+    
+    color: #67737A;
+  }
+  .enddateer{
+    margin-left: 5px;
+  }
+  .enddateers{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+    
+    
+    color: #67737A;
+  }
+  .nameselector{
+    margin-top: 55px;
+    margin-left: 5px;
+  }
+  .namevalue{
+    margin-top: -56px;
+    font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  
+  
+  color: #67737A;
+  }
+  .uploadyes{
+    width: 160px;
+    height: 49px;
+    align-self: center;
+background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+border-radius: 4px
+  }
+  .upllodbut{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .suggest{
+    color: #D4DCE1;
+  }
+  .Uploadbox{
+    margin-left:20px;
+    margin-right: -120px;
+    border: 3px dashed #67737A;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.filepreview{
+  margin-left: 70px;
+  margin-top:-45px;
+  font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+}
+  @media(min-width:1024px){
+    .uploadoutline{
+      /* width: 1107px; */
+      height: 529px;
+      margin-top:20px;
+      /* Base Colour 2 */
+      margin-left: 25%;
+      background: #202328;
+      border-radius: 8px;
+    
+    }
+    .Generatepdf{
+      margin-left: 48px;
+      margin-top: 20px;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+    }
+    .Generatetext{
+      width: 450px;
+      margin-left: 48px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+  
+  
+  /* Light Grey2 */
+  
+  color: #A3AAAE;
+    }
+    .startdateer{
+      margin-left: 48px;
+    }
+    .startdateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .enddateer{
+      margin-left: 50px;
+    }
+    .enddateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .nameselector{
+      margin-top: 55px;
+      margin-left: -80%;
+    }
+    .namevalue{
+      margin-top: -56px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  
+  
+  color: #67737A;
+    }
+    .Generator{
+      width: 160px;
+      height: 49px;
+      align-self: center;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+    }
+    .genertae{
+      margin-top: 40px;
+      margin-left: 48px;
+    }
+    .Uploadbox{
+      margin-left: 48px;
+      margin-right: -55px;
+      border: 3px dashed #67737A;
+  box-sizing: border-box;
+  border-radius: 8px;
+  }
+  .filepreview{
+    margin-left: 70px;
+    margin-top:-45px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+  }
+  }
+  @media(min-width:1200px){
+    .uploadoutline{
+      /* width: 1107px; */
+      height: 529px;
+      margin-top:20px;
+      /* Base Colour 2 */
+      margin-left: 22%;
+      background: #202328;
+      border-radius: 8px;
+    
+    }
+    .Generatepdf{
+      margin-left: 48px;
+      margin-top: 20px;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+    }
+    .Generatetext{
+      width: 450px;
+      margin-left: 48px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+  
+  
+  /* Light Grey2 */
+  
+  color: #A3AAAE;
+    }
+    .startdateer{
+      margin-left: 48px;
+    }
+    .startdateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .enddateer{
+      margin-left: 40px;
+    }
+    .enddateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .nameselector{
+      margin-top: -55px;
+      margin-left: 110%;
+    }
+    .namevalue{
+      margin-top: -56px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  
+  
+  color: #67737A;
+    }
+    .Generator{
+      width: 160px;
+      height: 49px;
+      align-self: center;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+    }
+    .genertae{
+      margin-top: 120px;
+      margin-left: 48px;
+    }
+    .Uploadbox{
+      margin-left: 48px;
+      margin-right: -55px;
+      border: 3px dashed #67737A;
+  box-sizing: border-box;
+  border-radius: 8px;
+  }
+  .filepreview{
+    margin-left: 70px;
+    margin-top:-45px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+  }
+  }
+  @media screen and (min-width:1440px)and (max-width:1600px){
+    .uploadoutline{
+      /* width: 1107px; */
+      height: 529px;
+      margin-top:20px;
+      /* Base Colour 2 */
+      margin-left: 18%;
+      background: #202328;
+      border-radius: 8px;
+    
+    }
+    .Generatepdf{
+      margin-left: 48px;
+      margin-top: 20px;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+    }
+    .Generatetext{
+      width: 450px;
+      margin-left: 48px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+  
+  
+  /* Light Grey2 */
+  
+  color: #A3AAAE;
+    }
+    .startdateer{
+      margin-left: 48px;
+    }
+    .startdateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .enddateer{
+      margin-left: 50px;
+    }
+    .enddateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .nameselector{
+      margin-top: -55px;
+      margin-left: 120%;
+    }
+    .namevalue{
+      margin-top: -56px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  
+  
+  color: #67737A;
+    }
+    .Generator{
+      width: 160px;
+      height: 49px;
+      align-self: center;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+    }
+    .genertae{
+      margin-top: 120px;
+      margin-left: 48px;
+    }
+    .Uploadbox{
+      margin-left: 48px;
+      margin-right: -55px;
+      border: 3px dashed #67737A;
+  box-sizing: border-box;
+  border-radius: 8px;
+  }
+  .filepreview{
+    margin-left: 70px;
+    margin-top:-45px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+  }
+  }
+  @media(min-width:1600px){
+    .uploadoutline{
+      /* width: 1107px; */
+      height: 529px;
+      margin-top:20px;
+      /* Base Colour 2 */
+      margin-left: 16%;
+      background: #202328;
+      border-radius: 8px;
+    
+    }
+    .Generatepdf{
+      margin-left: 48px;
+      margin-top: 20px;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+    }
+    .Generatetext{
+      width: 450px;
+      margin-left: 48px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+  
+  
+  /* Light Grey2 */
+  
+  color: #A3AAAE;
+    }
+    .startdateer{
+      margin-left: 48px;
+    }
+    .startdateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .enddateer{
+      margin-left: 50px;
+    }
+    .enddateers{
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+      
+      color: #67737A;
+    }
+    .nameselector{
+      margin-top: -55px;
+      margin-left: 120%;
+    }
+    .namevalue{
+      margin-top: -56px;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+  
+  
+  color: #67737A;
+    }
+    .Generator{
+      width: 160px;
+      height: 49px;
+      align-self: center;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+    }
+    .genertae{
+      margin-top: 120px;
+      margin-left: 48px;
+    }
+    .Uploadbox{
+      margin-left: 48px;
+      margin-right: -55px;
+      border: 3px dashed #67737A;
+  box-sizing: border-box;
+  border-radius: 8px;
+  }
+  .filepreview{
+    margin-left: 70px;
+    margin-top:-45px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+  }
+  }
+  @media(min-width:1850px){
+    .uploadoutline{
+      /* width: 1107px; */
+      height: 700px;
+      margin-top:20px;
+      /* Base Colour 2 */
+      margin-left: 14%;
+      background: #202328;
+      border-radius: 8px;
+  
+    }
+    .uploadtexts{
+      margin-left: 48px;
+      margin-top: 20px;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+    }
+    .uploadtext{
+        margin-left:48px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 150%;
+        /* identical to box height, or 36px */
+        
+        
+        /* Light Grey2 */
+        
+        color: #A3AAAE;
+    }
+    .uploadtextss{
+        margin-left:35%;
+        margin-bottom:2%;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 150%;
+        /* identical to box height, or 36px */
+        
+        
+        /* Light Grey2 */
+        
+        color: #A3AAAE;
+    }
+    .upload1icon{
+        margin-top: 5%;
+        margin-left: 45%;
+    }
+.Uploadbox{
+    margin-left: 48px;
+    margin-right: -55px;
+    border: 3px dashed #67737A;
+box-sizing: border-box;
+border-radius: 8px;
+}
+    .uploadyes{
+      width: 160px;
+      height: 49px;
+      align-self: center;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+    }
+    .upllodbut{
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 48px;
+    }
+    /* anticon upload */
+  .filepreview{
+    margin-left: 70px;
+    margin-top:-45px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+
+color: #D4DCE1;
+
+  }
+  }
+  .upload-preview {
+    list-style-type: none;
+  }

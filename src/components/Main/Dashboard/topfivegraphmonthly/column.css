@@ -1,0 +1,37 @@
+.backs {
+    /* background-color: #f6f6f6; */
+    
+    height : auto ; 
+    width : auto ;
+    
+  }
+
+  
+
+@media (max-width: 768px) {
+    .mainheading{
+        text-align: center;
+    }
+
+    #headingweeks {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+
+    /* #container { 
+        display: block;
+    }*/
+
+    #weekone  {
+        width: 700px;
+    }
+  
+
+    .backs {
+    
+        padding: auto;
+    }
+
+
+}

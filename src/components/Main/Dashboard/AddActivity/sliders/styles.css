@@ -1,0 +1,177 @@
+
+  .activitieshead{
+    /* margin:30px 0px 183px 20px; */
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #D4DCE1;
+  }
+  .activitiescount{
+
+    color: #FF395D;
+    /* margin:-95% 33px  0px 10%; */
+    margin-bottom: 24px;
+
+    font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 68px;
+  }
+  .imagescard{
+    /* margin-top:-38px;
+    margin-left: 250%; */
+    float:right;
+    }
+    .leavetoday{
+
+      height: 20px;
+      /* margin-left: 20px;
+      
+      margin-top:24px; */
+      font-family: 'Mulish';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 20px;
+      /* identical to box height */
+      color: #A3AAAE;
+      
+        }
+        .leavetodaycount{
+          /* margin-left:20px;
+          margin-bottom:20px; */
+          font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+        }
+        .leavetomorrow{
+          /* height: 20px; */
+          /* margin-left: 68%;
+          margin-top:-8.5%; */
+          /* margin-top:24px; */
+          font-family: 'Mulish';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 16px;
+          line-height: 20px;
+          /* margin-right: -90%; */
+          /* identical to box height */
+          color: #A3AAAE;
+          
+        }
+        .leavetomorrowcount{
+          /* margin-left:70%;
+      margin-bottom:20px; */
+          /* margin-top:-25%; */
+          font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+        }
+
+
+  .taskhead{
+    /* margin:30px 0px 191px 20px; */
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #D4DCE1;
+  }
+  .taskcount{
+    /* margin:-85% 33px  0px 10%; */
+    margin-bottom: 24px;
+    color: #38EF77;
+    font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 68px;
+  }
+  .imagescardtasks{
+    /* margin-top:-40px;
+    margin-left: 158%; */
+    float:right;
+  
+    }
+    .livetasks{
+
+      height: 20px;
+      /* margin-left: 20px; */
+      
+      /* margin-top:21px; */
+      font-family: 'Mulish';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 20px;
+      /* identical to box height */
+      color: #A3AAAE;
+      
+        }
+        .livetaskcount{
+          /* margin-left:20px;
+          margin-bottom:20px; */
+          font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+        }
+        .membersassigned{
+          /* height: 20px; */
+          /* margin-left: 70%;
+          margin-top:-7.6%; */
+          /* margin-top:24px; */
+          font-family: 'Mulish';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 16px;
+          line-height: 20px;
+          /* margin-right: -90%; */
+          /* identical to box height */
+          color: #A3AAAE;
+          
+        }
+        .membersassignedcount{
+          /* margin-left:70%;
+      margin-bottom:20px;
+          margin-top:-20%; */
+          font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 28px;
+      line-height: 35px;
+      
+      /* Main Text */
+      
+      color: #D4DCE1;
+        }
+        .imagescard{
+
+          /* margin-left: 190%;
+        margin-top: -150px; */
+          }
+    
+
+
+

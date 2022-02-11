@@ -1,0 +1,243 @@
+.adduser{
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+
+}
+.addusericon{
+    margin-left: 35%;
+
+    margin-right: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    /* Light Grey */
+    
+   color: #67737A;
+
+}
+.adduseractive{
+    border: 3px dashed #67737A;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-left:1%;
+    margin-top:20px;
+
+    margin-bottom: 20px;
+margin-right: 54px;
+
+  
+}
+@media(min-width:1024px){
+    .adduser{
+        font-family: 'Mulish';
+        margin-top: 1%;
+        margin-left: 26%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    
+    }
+    .adduseractive{
+        border: 3px dashed #67737A;
+        box-sizing: border-box;
+        border-radius: 8px;
+        margin-left:26%;
+        margin-top:20px;
+    
+        margin-bottom: 20px;
+    margin-right: 54px;
+    
+      
+    }
+    .addusericon{
+        margin-left: 18%;
+    
+        margin-right: 50%;
+        margin-top: 30%;
+        margin-bottom: 40%;
+        
+        /* Light Grey */
+        
+       color: #67737A;
+    
+    }
+}
+@media(min-width:1200px){
+    .adduser{
+        font-family: 'Mulish';
+        margin-top: 1%;
+        margin-left: 22%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    
+    }
+    .adduseractive{
+        border: 3px dashed #67737A;
+        box-sizing: border-box;
+        border-radius: 8px;
+        margin-left:22%;
+        margin-top:20px;
+    
+        margin-bottom: 20px;
+    margin-right: 54px;
+    
+      
+    }
+    .addusericon{
+        margin-left: 23%;
+    
+        margin-right: 50%;
+        margin-top: 30%;
+        margin-bottom: 40%;
+        
+        /* Light Grey */
+        
+       color: #67737A;
+    
+    }
+}
+@media screen and (min-width:1440px)and (max-width:1600px){
+    .adduser{
+        font-family: 'Mulish';
+        margin-top: 1%;
+        margin-left: 18%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    
+    }
+    .adduseractive{
+        border: 3px dashed #67737A;
+        box-sizing: border-box;
+        border-radius: 8px;
+        margin-left:18%;
+        margin-top:20px;
+    
+        margin-bottom: 20px;
+    margin-right: 54px;
+    
+      
+    }
+    .addusericon{
+        margin-left: 30%;
+    
+        margin-right: 50%;
+        margin-top: 30%;
+        margin-bottom: 40%;
+        
+        /* Light Grey */
+        
+       color: #67737A;
+    
+    }
+}
+@media(min-width:1600px){
+    .adduser{
+        font-family: 'Mulish';
+        margin-top: 1%;
+        margin-left: 16%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    
+    }
+    .adduseractive{
+        border: 3px dashed #67737A;
+        box-sizing: border-box;
+        border-radius: 8px;
+        margin-left:16%;
+        margin-top:20px;
+    
+        margin-bottom: 20px;
+    margin-right: 54px;
+    
+      
+    }
+
+    .addusericon{
+        margin-left: 32%;
+    
+        margin-right: 50%;
+        margin-top: 30%;
+        margin-bottom: 40%;
+        
+        /* Light Grey */
+        
+       color: #67737A;
+    
+    }
+
+}
+@media(min-width:1920px){
+    .adduser{
+        font-family: 'Mulish';
+        margin-top: 1%;
+        margin-left: 14%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* Main Text */
+    
+    color: #D4DCE1;
+    
+    }
+    .addusericon{
+        margin-left: 32%;
+    
+        margin-right: 50%;
+        margin-top: 30%;
+        margin-bottom: 40%;
+        
+        /* Light Grey */
+        
+       color: #67737A;
+    
+    }
+    .adduseractive{
+        border: 3px dashed #67737A;
+        box-sizing: border-box;
+        border-radius: 8px;
+        margin-left:14%;
+        margin-top:20px;
+    
+        margin-bottom: 20px;
+    margin-right: 54px;
+    
+      
+    }
+}
+.addusericon{
+    cursor: pointer;
+}

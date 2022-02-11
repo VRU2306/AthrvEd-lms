@@ -1,0 +1,124 @@
+#week{
+    width: auto;
+    height: auto;
+}
+
+  /* @media(min-width:1000px){ */
+
+
+
+
+/* @media(max-width:1000px){
+    .monthly {
+        background-color: #ffffff;
+        flex-basis: 400px;
+        height: 40%;
+        box-shadow: 10px 10px 5px 0 rgba(230, 230, 230, 1);
+        margin: 10px;
+        margin-top: 30px;
+        padding: 25px;
+        padding-bottom: 50px;
+        border-radius: 5px;
+    
+    }
+} */
+
+
+
+
+/* #container {
+    height: 700px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+        
+    } */
+
+  
+
+/* #commoncontainer {
+    background-color: #f6f6f6 ;
+} */
+
+#weekones {
+
+    margin-top: 10px;
+    width: 500px;
+}
+   
+
+
+
+
+/* .grid-container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: auto auto auto auto ;
+    grid-template-rows: 1fr 1fr 1fr 5fr 5fr 1fr 1fr 5fr 1fr 1fr 5fr;
+    grid-template-areas: 
+        "mainheading mainheading mainheading mainheading"
+        "headingweek headingweek headingweek headingweek"
+        "dropweek dropweek dropweek dropweek"
+        "weekone weekone weektwo weektwo"
+        "weekthree weekthree weekfour weekfour"
+        "headingmonth headingmonth headingmonth headingmonth"
+        "dropmonth dropmonth dropmonth dropmonth"
+        "month month month month"
+        "headingyear headingyear  headingyear headingyear "
+        "dropyear dropyear dropyear dropyear"
+        "year year year year";
+
+}
+
+#mainheading {
+    grid-area: mainheading;
+}
+
+#headingweek {
+    grid-area: headingweek;
+}
+
+#dropweek {
+    grid-area: dropweek;
+}
+
+#headingmonth {
+    grid-area: headingmonth;
+}
+
+#dropmonth {
+    grid-area: dropmonth;
+}
+
+#headingyear {
+    grid-area: headingyear;
+}
+
+#dropyear {
+    grid-area: dropyear;
+} */
+
+
+@media (max-width: 768px) {
+    .mainheading{
+        text-align: center;
+    }
+
+    #headingweeks {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+
+    /* #container { 
+        display: block;
+    }*/
+
+    #weekone  {
+        width: 700px;
+    }
+  
+
+
+}

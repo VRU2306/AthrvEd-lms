@@ -1,0 +1,1723 @@
+.Extendlist {
+  background-color: #202328;
+  margin-left: 14%;
+  margin-top: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-right: 60px;
+}
+.noleavetext {
+  margin-left: 50%;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+
+  text-align: center;
+
+  color: #a3aaae;
+}
+.leaveicon {
+  margin-left: 32px;
+  margin-top: 52px;
+  margin-bottom: 52px;
+  margin-right: 32px;
+}
+.Extendheadinglist {
+  margin-left: 45px;
+  margin-top: 32px;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+
+.extendreason {
+  margin-left: 3.75%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  color: #a3aaae;
+}
+.extendreasonss {
+  margin-left: 8%;
+  font-family: "Mulish";
+  margin-top: -35px;
+  width: 1000px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  color: #a3aaae;
+}
+
+.extendrequestby {
+  margin-left: -78%;
+  margin-top: 10%;
+  width: 280px;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  line-height: 23px;
+  color: #67737a;
+}
+
+.imagenoactivity {
+  width: 400px;
+  height: 154px;
+  margin-left: 40%;
+
+  mix-blend-mode: normal;
+}
+
+.extleaveaccept {
+  width: 160px;
+  height: 49px;
+  background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+}
+/* extend box */
+.extaccepted {
+  margin-right: 20%;
+  /* margin-top: 15%; */
+  margin-bottom: 10px;
+  font-family: "Mulish";
+}
+.extleaveaccepted {
+  margin-left: 50%;
+  margin-top: 5%;
+  margin-bottom: 10px;
+  font-family: "Mulish";
+}
+.extreject {
+  width: 160px;
+  height: 49px;
+}
+/* extend box */
+.extrejected {
+  margin-top: -2%;
+  margin-right: 10%;
+}
+/* extenddeadline popup */
+.extendtitle {
+  margin-top: 32px;
+  margin-left: -58%;
+  /* margin-right: 261px; */
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  color: #67737a;
+}
+.extenddesc {
+  margin-left: -68%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+.extenddescr {
+  margin-left: -25%;
+  margin-top: -25px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extendue {
+  margin-left: -84.5%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+.extendduedate {
+  margin-left: -45%;
+  margin-top: -25px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extenassign {
+  margin-left: -74.8%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+.extendassigndate {
+  margin-left: -25%;
+  margin-top: -25px;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extendreasonbox {
+  margin-left: -84.5%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+.extendreasons {
+  margin-top: -25px;
+  margin-left: -10%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+
+@media (max-width: 1024px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 1%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    text-align: center;
+
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 17%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 40%;
+    width: 250px;
+    font-family: "Mulish";
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: 15%;
+    margin-top: 40%;
+    margin-bottom: 10px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 380px;
+    height: 154px;
+    margin-left: 2%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+
+  .extleaveaccepted {
+    margin-left: 20%;
+    margin-top: -35%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+
+  .extaccepted {
+    margin-right: 5%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 30%;
+  }
+  /* extenddeadline popup */
+  .extendtitles {
+    margin-left: 5%;
+    margin-top: 33px;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddescs {
+    margin-left: 3%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescrs {
+    margin-left: 38%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendues {
+    margin-left: 3%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedates {
+    margin-left: 18%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassigns {
+    margin-left: 3%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndates {
+    margin-left: 26%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonboxs {
+    margin-left: 3%;
+    font-family: "Mulish";
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #a3aaae;
+  }
+  .extendreasonsss {
+    margin-left: 20%;
+    font-family: "Mulish";
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+@media (min-width: 1024px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 25%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    text-align: center;
+
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 7%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 16%;
+    font-family: "Mulish";
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: -76%;
+    margin-top: 20%;
+    margin-bottom: 10px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 400px;
+    height: 154px;
+    margin-left: 40%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+  .extleaveaccepted {
+    margin-left: 70%;
+    margin-top: -15%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extaccepted {
+    margin-right: 20%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 10%;
+  }
+  /* extenddeadline popup */
+  .extendtitle {
+    margin-top: 32px;
+    margin-left: -58%;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddesc {
+    margin-left: -68%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescr {
+    margin-left: -25%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendue {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedate {
+    margin-left: -45%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassign {
+    margin-left: -74.8%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndate {
+    margin-left: -25%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonbox {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendreasons {
+    margin-top: -25px;
+    margin-left: -10%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+
+@media (min-width: 1200px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 22%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    text-align: center;
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 6%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 12%;
+    font-family: "Mulish";
+    width: 450px;
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: -75%;
+    margin-top: 12%;
+    width: 250px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 400px;
+    height: 154px;
+    margin-left: 40%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+  .extleaveaccepted {
+    margin-left: 70%;
+    margin-top: -10%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extaccepted {
+    margin-right: 20%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 10%;
+  }
+  /* extenddeadline popup */
+  .extendtitle {
+    margin-top: 32px;
+    margin-left: -58%;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddesc {
+    margin-left: -68%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescr {
+    margin-left: -25%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendue {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedate {
+    margin-left: -45%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassign {
+    margin-left: -74.8%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndate {
+    margin-left: -25%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonbox {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendreasons {
+    margin-top: -25px;
+    margin-left: -10%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+@media (min-width: 1320px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 22%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    text-align: center;
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 6%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 12%;
+    font-family: "Mulish";
+    width: 450px;
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: -75%;
+    margin-top: 12%;
+    width: 500px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 400px;
+    height: 154px;
+    margin-left: 40%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+  .extleaveaccepted {
+    margin-left: 70%;
+    margin-top: -10%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extaccepted {
+    margin-right: 20%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 10%;
+  }
+  /* extenddeadline popup */
+  .extendtitle {
+    margin-top: 32px;
+    margin-left: -58%;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddesc {
+    margin-left: -68%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescr {
+    margin-left: -25%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendue {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedate {
+    margin-left: -45%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassign {
+    margin-left: -74.8%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndate {
+    margin-left: -25%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonbox {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendreasons {
+    margin-top: -25px;
+    margin-left: -10%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 1600px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 18%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    text-align: center;
+
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 10%;
+    font-family: "Mulish";
+    margin-top: -35px;
+    width: 1000px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: -76%;
+    margin-top: 10%;
+
+    width: 250px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 400px;
+    height: 154px;
+    margin-left: 40%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+  .extleaveaccepted {
+    margin-left: 50%;
+    margin-top: 5%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extaccepted {
+    margin-right: 20%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 10%;
+  }
+  /* extenddeadline popup */
+  .extendtitle {
+    margin-top: 32px;
+    margin-left: -58%;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddesc {
+    margin-left: -68%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescr {
+    margin-left: -25%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendue {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedate {
+    margin-left: -45%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassign {
+    margin-left: -74.8%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndate {
+    margin-left: -25%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonbox {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendreasons {
+    margin-top: -25px;
+    margin-left: -10%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1900px) {
+  .Extendlist {
+    background-color: #202328;
+    margin-left: 16%;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+  }
+  .noleavetext {
+    margin-left: 50%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    text-align: center;
+
+    color: #a3aaae;
+  }
+  .leaveicon {
+    margin-left: 32px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-right: 32px;
+  }
+  .Extendheadinglist {
+    margin-left: 45px;
+    margin-top: 32px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+
+  .extendreason {
+    margin-left: 4.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+  .extendreasonss {
+    margin-left: 10%;
+    width: 1000px;
+    font-family: "Mulish";
+    margin-top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #a3aaae;
+  }
+
+  .extendrequestby {
+    margin-left: -78%;
+    margin-top: 10%;
+    width: 250px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    line-height: 23px;
+    color: #67737a;
+  }
+
+  .imagenoactivity {
+    width: 400px;
+    height: 154px;
+    margin-left: 40%;
+
+    mix-blend-mode: normal;
+  }
+
+  .extleaveaccept {
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259e3f 0.3%, #249566 104.07%);
+  }
+  .extleaveaccepted {
+    margin-left: 50%;
+    margin-top: 5%;
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extaccepted {
+    margin-right: 10%;
+    /* margin-top: 15%; */
+    margin-bottom: 10px;
+    font-family: "Mulish";
+  }
+  .extreject {
+    width: 160px;
+    height: 49px;
+  }
+  /* extend box */
+  .extrejected {
+    margin-top: -2%;
+    margin-right: 10%;
+  }
+  /* extenddeadline popup */
+  .extendtitle {
+    margin-top: 32px;
+    margin-left: -58%;
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }
+  .extenddesc {
+    margin-left: -68%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extenddescr {
+    margin-left: -25%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendue {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendduedate {
+    margin-left: -45%;
+    margin-top: -25px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extenassign {
+    margin-left: -74.8%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndate {
+    margin-left: -25%;
+    margin-top: -25px;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonbox {
+    margin-left: -84.5%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendreasons {
+    margin-top: -25px;
+    margin-left: -10%;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+}
+.Extendlist1 {
+  background-color: #202328;
+  border-radius: 8px;
+  margin-bottom: 60px;
+  /* margin-left: 250px; */
+  /* height: 200px; */
+}
+.Extendheadinglist1 {
+  margin-left: 20px;
+  margin-top: 16px;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extendreason1 {
+  margin-left: 20px;
+  margin-top: 16px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  color: #a3aaae;
+}
+.extendreasonss1 {
+  /* margin-left:8%; */
+  font-family: "Mulish";
+  /* margin-top:-35px; */
+  /* width: 1000px; */
+  margin-left: 20px;
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  color: #a3aaae;
+}
+.extendrequestby1 {
+  /* margin-left:-78%;
+    margin-top: 10%;
+width: 280px;
+   */
+  margin-left: 20px;
+  margin-top: 16px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  line-height: 23px;
+  color: #67737a;
+  margin-bottom: 20px;
+}
+.extleaveaccepted1 {
+  font-family: "Mulish";
+}
+
+@media (min-width: 1860px) {
+  .Extendlist1 {
+    margin-left: 14%;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1860px) {
+  .Extendlist1 {
+    margin-left: 280px;
+  }
+}
+.extenddescs1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+
+.extenddescrs1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extendues1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #a3aaae;
+}
+
+.extendduedates1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.extenassigns1 {
+   
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #a3aaae;
+  }
+  .extendassigndates1 {
+   
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendreasonboxs1 {
+   
+    font-family: "Mulish";
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #a3aaae;
+  }
+  .extendreasonsss1 {
+   
+    font-family: "Mulish";
+    /* margin-top: -35px; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .extendtitles1 {
+   
+    /* margin-right: 261px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    color: #67737a;
+  }

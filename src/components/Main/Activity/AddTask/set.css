@@ -1,0 +1,88 @@
+#ida{
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right:15px;
+}
+#ids{
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right:15px;
+    text-align: center;
+}
+#aaa{
+    margin-left: 10px;
+    margin-right:10px;
+}
+#aaaa{
+    margin-left: 10px;
+  
+}
+#spacers{
+    margin-right: 180px;
+}
+.taskTitle{
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right:15px;
+    color:"white";
+    text-align: center;
+    font-weight: bold;
+}
+
+
+@media all and (max-width: 768px) {
+    .online{
+        padding-top: 20px;
+        text-align: left;
+    
+    }
+    #spaers{
+        text-align: left;
+    
+    }
+  }
+@media all and (min-width: 768px) {
+    #spaers{
+        margin-left:150px;
+    }
+    .online{
+        padding-top: 20px;
+        display: flex;
+    
+    }
+  }
+  .cen{
+      text-align: center;
+      align-items: center;
+      margin-left: 33%;
+
+  }
+
+  @media(max-width: 500px){
+
+    .cance{  
+        align-content: flex-end;
+        text-align: end;
+        padding-left: 60px;
+    }
+    }
+    
+    @media(min-width: 500px) {
+     
+      .cance{
+          align-content: flex-end;
+          text-align: end;
+          padding-left: 100px;
+      }
+    
+
+    .addtask{
+        display: flex;
+        flex-direction: column;
+
+        }
+
+    }

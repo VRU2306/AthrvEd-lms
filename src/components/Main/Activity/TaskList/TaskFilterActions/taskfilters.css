@@ -1,0 +1,62 @@
+.daterange{
+    display:flex;
+    flex-direction: row;
+}
+
+.startdaterange{
+    width:195px;
+    margin-left:150px;
+}
+
+.enddaterange{
+    width:195px;
+    margin-left:20px;
+}
+
+.datefilter{
+    width:195px;
+}
+
+.namefilter{
+    width: 200px;
+    margin-top:36px;
+    margin-right: 10px;
+}
+@media(max-width:1300px){
+    .startdaterange{
+        margin-left: 30px;
+    }
+    .datefilter{
+        width:195px;
+    }
+}
+@media(max-width:1200px){
+    .startdaterange{
+        margin-left: 0px;
+    }
+    .datefilter{
+        width:195px;
+    }
+}
+
+@media(max-width:800px){
+    .daterange{
+        display:flex;
+        flex-direction: column;
+    }
+    .startdaterange{
+       margin-left:0px;
+    }
+    
+    .enddaterange{
+        margin-left:-5px;
+    }
+    
+    .datefilter{
+        margin-left:0px;
+    }
+    
+    .namefilter{
+        margin-left:0px;
+    }
+}

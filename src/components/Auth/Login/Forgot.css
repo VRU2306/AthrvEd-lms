@@ -1,0 +1,161 @@
+#continue-btn{
+    cursor:pointer;
+}
+.crossmark{
+    display: flex;
+      margin-left: 435px;
+      margin-top: 45px;
+    
+  }
+  .allset{
+    width: 557px;
+  height: 518px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  } 
+#athlogfg{
+    margin-left: 14px;
+    margin-top: -11px;
+}
+#emaifg{
+    width: 241px;
+    height: 36px;
+    margin-top: 28px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 130%;
+    /* or 36px */
+    
+    text-align: center;
+    
+    /* Light */
+    
+    color: #D4DCE1;
+}
+
+.emailtext{
+    width: 251px;
+    height: 23px;
+    left: 595px;
+    top: 286px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+    
+    text-align: center;
+    margin-top: 4px;
+    color: #666B6F;
+    
+    }
+    .emailid{
+        width: 76px;
+    height: 21px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+    
+    margin-right: 385px;
+    /* Light */
+    
+    color: #D4DCE1;
+      }
+
+      .boxem{
+        width: 473px;
+        height: 42px;
+        /* left: 484px; */
+        /* top: 394px; */
+        background: #373B3D;
+        border: 1px solid #8791A0;
+        box-sizing: border-box;
+        border-radius: 4px;
+        margin-left: 5px;
+        margin-top: 9px;
+    }
+    .emailinfo{
+        width: 479px;
+    height: 37px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 130%;
+    color: #666B6E;
+    margin-right: -9px;
+    margin-top: -7px;
+    color: #666B6E;
+      }
+.fbt {
+    width: 146px;
+height: 48px;
+left: 811px;
+top: 535px;
+
+background: linear-gradient(90deg, #2B7CAA 0%, #2B4DAA 100%);
+border-radius: 4px;
+margin-left: 316px;
+    margin-top: 8px;
+    color: #D4DCE1;
+    border: none;
+
+}
+
+.fbt-info {
+    color: #fff;
+    background-color: #00acc1;
+    border: none;
+}
+
+
+.fbt-info:hover {
+    color: #fff;
+    background-color:#047685;
+}
+
+
+
+@media screen and (min-width:0px)and (max-width:500px){
+    .dsx{
+       margin-left: 7px;
+margin-top: 180px;
+    }
+}
+@media screen and (min-width:500px)and (max-width:700px){
+   .dsx{
+       margin-left: 111px;
+       margin-top: 205px;
+   }
+}
+
+@media screen and (min-width:700px)and (max-width:1000px){
+   .dsx{
+       margin-left: 115px;
+margin-top: 185px;
+   }
+}
+
+@media screen and (min-width:1000px) and (max-width:1500px) {
+   .dsx{
+
+       width: 557px;
+       background-color: rgba(32, 35, 40, 0.8);
+       margin-top: 40px;
+       margin-left: 30%;
+       height: 600px;
+       padding-left: 0px;
+       padding-right: 0px;
+       border-radius: 8px; 
+   
+   } 
+}

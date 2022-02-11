@@ -1,0 +1,34 @@
+.notify{
+
+    width: 160px;
+    height: 49px;
+  }
+  
+.notfilledtitle{
+  margin-top: 5%;
+  margin-left: 3%;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+    
+   
+    color: #67737A;
+}
+
+  .cancelles{
+    margin-right:10%;
+    
+  }
+  .checknow{
+    margin-left:280px;
+    margin-top:-65px;
+
+  }
+  .notifies{
+    margin-right:10%;
+    /* margin-top: -26%; */
+    font-family: 'Mulish';
+  }

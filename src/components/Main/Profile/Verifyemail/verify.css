@@ -1,0 +1,33 @@
+.verifyemails{
+    margin-top: 10px;
+    margin-left: 25px;
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+}
+.submittoken{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submittokeny{
+    margin-right:10%;
+    /* margin-top: -26%; */
+    font-family: 'Mulish';
+  }
+  .resendy{
+      margin-top:-10.75%;
+      margin-left:40%
+  }
+  .resends{
+    width: 160px;
+    height: 49px;
+  }

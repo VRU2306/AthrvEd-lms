@@ -1,0 +1,90 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap'); */
+
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Black.woff') format(woff);
+font-weight:900;
+font-style: normal;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-BlackItalic.woff') format(woff);
+font-weight:900;
+font-style: italic;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-ExtraBoldItalic.woff') format(woff);
+font-weight:800;
+font-style: italic;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-MediumItalic.woff') format(woff);
+font-weight:500;
+font-style: italic;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Medium.woff') format(woff);
+font-weight:500;
+font-style: normal;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Medium.woff') format(woff);
+font-weight:500;
+font-style: normal;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-SemiBoldItalic.woff') format(woff);
+font-weight:600;
+font-style:italic;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-BoldItalic.woff') format(woff);
+font-weight:bold;
+font-style:italic;
+
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Light.woff') format(woff);
+font-weight:300;
+font-style:normal;
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Bold.woff') format(woff);
+font-weight:bold;
+font-style:normal;
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-Regular.woff') format(woff);
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+  font-family: "Mulish";
+  src:url('./Fonts/Mulish-ExtraLightItalic.woff') format(woff);
+font-weight:200;
+font-style:italic;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif !important;
+
+}

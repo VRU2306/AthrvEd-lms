@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Source+Sans+Pro&display=swap');
+.inner {
+
+  text-align: center;
+  margin: 0;
+  padding: 0;
+    
+
+}
+
+  body{  
+    background: url(../Auth/bg_1_2.png); 
+    background-color: black; 
+}
+
+#athrv{
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-top:auto ;
+  width: 50%;
+}
+#conto{
+  display: grid;
+  padding-top: 20px;
+  padding-bottom:auto ;
+  margin-left: auto;
+ margin-bottom: -30px;
+  margin-right: auto;  
+  margin-top:auto ;
+  width: 30%;
+}
+#id{
+/* margin-top: 50px; */
+margin-bottom: -2px;
+}
+
+
+
+.button {
+  margin: 0;
+  width: auto;
+  overflow: hidden;
+  border: 2px solid;
+  border-radius: 3em;
+  padding: .5em 2em;
+  background: transparent;
+
+  /* inherit font & color from ancestor */
+  color: inherit;
+  font: inherit;
+
+  /* Normalize `line-height`. Cannot be changed from `normal` in Firefox 4+. */
+  line-height: normal;
+
+  /* Corrects font smoothing for webkit */
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+
+  /* Corrects inability to style clickable `input` types in iOS */
+  -webkit-appearance: none;
+
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+
+  /* border: 2px solid;
+  border-radius: 3em; */
+  /* padding: 0.5em 2em; */
+  transition: transform 80ms ease-in;
+  cursor: pointer;
+}
+
+/* button:active,
+.button:active {
+  transform: scale(0.95);
+} */
+.kwHqxt.container__form{
+  padding: 0px  !important;
+}
+
+
+/* input {
+  background-color: #eee;
+  border: none;
+  padding: 12px 15px;
+  margin: 10px 0;
+  width: 100%;
+} */
+
+.cent{
+  
+width: 132px;
+height: 23px;
+left: 654px;
+top: 286px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+text-align: center;
+
+color: #666B6F;
+}
+/* a {
+  color: #333;
+  font-size: 14px;
+  text-decoration: none;
+  margin: 15px 0;
+} */
+
+#rr{
+
+justify-content: center;
+  text-transform: capitalize;
+ 
+}
+#stylle{
+ background-color:black;
+
+}
+@media screen and (min-width:1050px) {
+
+  #rr{
+  text-transform: capitalize;
+}
+#styr{
+    padding-top: 0px;
+    color: black;
+
+}}

@@ -1,0 +1,37 @@
+.addactivitytitless{
+    margin-top: 5%;
+    margin-left: 3%;
+      font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 150%;
+      /* identical to box height, or 36px */
+      
+     
+      color: #67737A;
+}
+.addactivityyes{
+  width: 160px;
+        height: 49px;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+border-radius: 4px
+}
+.addactivityy{
+  margin-right:10%;
+  /* margin-top: -26%; */
+  font-family: 'Mulish';
+}
+.addactivitycancels{
+ 
+
+  width: 160px;
+  height: 49px;
+}
+.addactivitycancelss{
+
+
+  margin-right:20%;
+
+
+}

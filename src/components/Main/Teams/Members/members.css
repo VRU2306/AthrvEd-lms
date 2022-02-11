@@ -1,0 +1,1294 @@
+.memberslist {
+  margin-left: 1%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 54px;
+}
+
+.viewactivemembers {
+  background-color: #202328;
+  border-radius: 8px;
+  margin-left: 18%;
+
+  margin-right: -9.5%;
+  height: 350px;
+  margin-bottom: 20px;
+}
+.fnames {
+  margin-left: 10%;
+  width: 220px;
+  height: 30px;
+  /* margin-top: 52px; */
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.profileuser {
+  margin-left: 50%;
+  margin-top: -22px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.profileusers {
+  margin-left: -0%;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.blocks {
+  margin-left: 25%;
+  background: #373b3d;
+  border-radius: 4px;
+  width: 220px;
+  height: 40px;
+}
+.blockusers {
+  margin-top: 5px;
+  margin-left: 12px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.unblockedusers {
+  margin-top: 5px;
+  margin-left: 12px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #f8fbfc;
+}
+.unblocks {
+  margin-left: 25%;
+  width: 220px;
+  height: 40px;
+  background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+  border-radius: 4px;
+}
+.ants {
+  margin-top: -18px;
+  margin-left: 60%;
+}
+.userss {
+  margin-top: 5px;
+  margin-left: 12px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.superuserss {
+  margin-top: 5px;
+  margin-left: 12px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #f8fbfc;
+}
+.superusers {
+  margin-top: -10%;
+  margin-left:95%;
+  width: 250px;
+  padding-right: 60px;
+  height: 40px;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD);
+  border-radius: 4px;
+}
+.antss {
+  margin-top: -18px;
+  margin-left: 110%;
+}
+
+@media (min-width: 1024px) {
+  .memberslist {
+    margin-left: 66%;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  .viewactivemembers {
+    background-color: #202328;
+    border-radius: 8px;
+    margin-left: 28%;
+width: 50%;
+    margin-right: -17.5%;
+    height: 350px;
+    margin-bottom: 20px;
+  }
+  .fnames {
+    margin-left: 15%;
+
+    /* margin-top: 52px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .profileuser {
+    margin-left: 20%;
+    margin-top: 2px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .profileusers {
+    margin-left: -0%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .blocks {
+    margin-left: 22%;
+    background: #373b3d;
+    border-radius: 4px;
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+  }
+  .blockusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .unblockedusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #f8fbfc;
+  }
+  .unblocks {
+    margin-left: 22%;
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+    background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+    border-radius: 4px;
+  }
+  .ants {
+    margin-top: -18px;
+    margin-left: 60%;
+  }
+
+  .userss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    /* Light Grey2 */
+  
+    color: #a3aaae;
+  }
+  .superuserss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    color: #f8fbfc;
+  }
+  .superusers {
+    margin-top: -10%;
+    margin-left:105%;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD);
+    border-radius: 4px;
+  }
+  .antss {
+    margin-top: -18px;
+    margin-left: 110%;
+  }
+  
+}
+@media (min-width: 1200px) {
+  .memberslist {
+    margin-left: 66%;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  .viewactivemembers {
+    background-color: #202328;
+    border-radius: 8px;
+    margin-left: 22%;
+width: auto;
+    margin-right: -9.5%;
+    height: 350px;
+    margin-bottom: 20px;
+  }
+  .fnames {
+    margin-left: 12%;
+
+    height: 30px;
+   
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .profileuser {
+    margin-left: 20%;
+    margin-top: 2px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .profileusers {
+    margin-left: -0%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .blocks {
+    margin-top: 25%;
+    margin-left: 25%;
+    background: #373b3d;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+  }
+  .blockusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .unblockedusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #f8fbfc;
+  }
+  .unblocks {
+    margin-top: 25%;
+    margin-left: 25%;
+    width: 200px;
+    height: 40px;
+    background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+    border-radius: 4px;
+  }
+  .ants {
+    margin-top: -18px;
+    margin-left: 60%;
+  }
+  /* change rolw css oart */
+  .changerole{
+    margin-top:-90px;
+    margin-left: -10%;
+  }
+  .users {
+    margin-top: 25%;
+    margin-left: 105%;
+    background: #373b3d;
+    border-radius: 4px;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+  }
+  .userss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    /* Light Grey2 */
+  
+    color: #a3aaae;
+  }
+  .superuserss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    color: #f8fbfc;
+  }
+  .superusers {
+    margin-top: 25%;
+    margin-left:105%;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD);
+    border-radius: 4px;
+  }
+  .antss {
+    margin-top: -18px;
+    margin-left: 110%;
+  }
+
+}
+@media screen and (min-width: 1440px) and (max-width: 1600px) {
+  .memberslist {
+    margin-left: 66%;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  .viewactivemembers {
+    background-color: #202328;
+    border-radius: 8px;
+    margin-left: 18%;
+
+    margin-right: -9.5%;
+    height: 350px;
+    margin-bottom: 20px;
+  }
+  .fnames {
+    margin-left: 10%;
+    width: 220px;
+    height: 30px;
+    /* margin-top: 52px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .profileuser {
+    margin-left: 50%;
+    margin-top: -22px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .profileusers {
+    margin-left: -0%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .blocks {
+    margin-left: 22%;
+    margin-top: -2%;
+    background: #373b3d;
+    border-radius: 4px;
+    width: 220px;
+    height: 40px;
+  }
+  .blockusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .unblockedusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #f8fbfc;
+  }
+  .unblocks {
+    margin-left: 22%;
+    margin-top: -2%;
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+    border-radius: 4px;
+  }
+  .ants {
+    margin-top: -18px;
+    margin-left: 60%;
+  }
+  .userss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    /* Light Grey2 */
+  
+    color: #a3aaae;
+  }
+  .superuserss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    color: #f8fbfc;
+  }
+  .superusers {
+    margin-top: 25%;
+    margin-left:105%;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD);
+    border-radius: 4px;
+  }
+  .antss {
+    margin-top: -18px;
+    margin-left: 110%;
+  }
+}
+
+@media (min-width: 1600px) {
+  .memberslist {
+    margin-left: 66%;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  .viewactivemembers {
+    background-color: #202328;
+    border-radius: 8px;
+    margin-left: 16%;
+
+    margin-right: -5.5%;
+    height: 350px;
+    margin-bottom: 20px;
+  }
+  .fnames {
+    margin-left: 20%;
+    width: 220px;
+    height: 30px;
+    /* margin-top: 52px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .profileuser {
+    margin-left: 50%;
+    margin-top: -22px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .profileusers {
+    margin-left: -0%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .blocks {
+    margin-left: 25%;
+    margin-top: -2%;
+    background: #373b3d;
+    border-radius: 4px;
+    width: 220px;
+    height: 40px;
+  }
+  .blockusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .unblockedusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #f8fbfc;
+  }
+  .unblocks {
+    margin-left: 25%;
+    margin-top: -2%;
+
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+    border-radius: 4px;
+  }
+  .ants {
+    margin-top: -18px;
+    margin-left: 60%;
+  }
+  .userss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    /* Light Grey2 */
+  
+    color: #a3aaae;
+  }
+  .superuserss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    color: #f8fbfc;
+  }
+  .superusers {
+    margin-top: 25%;
+    margin-left:105%;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD);
+    border-radius: 4px;
+  }
+  .antss {
+    margin-top: -18px;
+    margin-left: 110%;
+  }
+}
+@media (min-width: 1900px) {
+  .memberslist {
+    margin-left: 66%;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+  }
+  .viewactivemembers {
+    background-color: #202328;
+    border-radius: 8px;
+    margin-left: 14%;
+
+    margin-right: -10.5%;
+    height: 350px;
+    margin-bottom: 20px;
+  }
+  .fnames {
+    margin-left: 21%;
+    width: 220px;
+    height: 30px;
+    justify-content: center;
+    /* margin-top: 52px; */
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    /* Main Text */
+
+    color: #d4dce1;
+  }
+  .profileuser {
+    margin-left: 50%;
+    margin-top: -22px;
+    justify-content: center;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .profileusers {
+    margin-left: -0%;
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .blocks {
+    margin-left: 35%;
+    margin-top: -2%;
+    background: #373b3d;
+    border-radius: 4px;
+    width: 240px;
+    height: 40px;
+  }
+  .blockusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* Light Grey2 */
+
+    color: #a3aaae;
+  }
+  .unblockedusers {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #f8fbfc;
+  }
+  .unblocks {
+    margin-left: 35%;
+    margin-top: -2%;
+    width: 240px;
+    height: 40px;
+    background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+    border-radius: 4px;
+  }
+  .ants {
+    margin-top: -18px;
+    margin-left: 60%;
+  }
+  .userss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    /* Light Grey2 */
+  
+    color: #a3aaae;
+  }
+  .superuserss {
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+  
+    color: #f8fbfc;
+  }
+  .superusers {
+    margin-top: 25%;
+    margin-left:105%;
+    width: 250px;
+    padding-right: 60px;
+    height: 40px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD);
+    border-radius: 4px;
+  }
+  .antss {
+    margin-top: -18px;
+    margin-left: 110%;
+  }
+}
+/* popup */
+.profileusea {
+  margin-left: 50%;
+  margin-top: -22px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.profileuserss {
+  margin-left: -0%;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.dialogprofile{
+  margin-top: 70px;
+margin-left:168px;
+  font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+/* Main Text */
+
+color: #D4DCE1;
+
+width: 220px;
+height: 30px;
+}
+.userstats{
+  width: 400px;
+  margin-top: 20px;
+  margin-left: -120px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  
+  /* Main Text */
+  
+  color: #D4DCE1;
+
+}
+.userliststats{
+  background-color: #373B3D;
+  margin-left: -120px;
+  margin-top:20px;
+  padding-bottom: 30px;
+  margin-right: -80%;
+  border-radius: 8px;
+
+
+}
+.avghead{
+padding-top:5%;
+margin-left: 20px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+margin-right:10%;
+line-height: 25px;
+color: #D4DCE1;
+}
+.avgcount{
+  margin-top:-35px;
+  margin-left: 20px;
+color: #2287FF;
+  font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 68px;
+}
+.carddimg{
+  margin-top:-55px;
+  margin-left: 80%;
+  width: 64px;
+height: 64px;
+}
+.avgactassign{
+  margin-left: 20px;
+  width: 143px;
+  height: 20px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  
+  color: #A3AAAE;
+}
+.avgtaskassign{
+  margin-top: -21px;
+  margin-left: 50%;
+  width: 143px;
+  height: 20px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  
+  color: #A3AAAE;
+}
+.actassigncount{
+  width: 17px;
+height: 35px;
+margin-left: 20px;
+margin-bottom:20px;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+}
+.taskassigncount{
+  margin-top: -55px;
+  width: 17px;
+
+height: 35px;
+margin-left: 50%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+}
+/* activites asssigned inside popup */
+.useractivitiess{
+  width: 400px;
+  margin-top: 20px;
+  margin-left: -120px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  
+  /* Main Text */
+  
+  color: #D4DCE1;
+
+}
+.userstates{
+  background-color: #373B3D;
+  margin-bottom: 10px;
+  /* margin-left: 10px;
+  margin-top:20px;
+  padding-bottom: 10px;
+  margin-right: -50%;
+  border-radius: 8px; */
+
+
+}
+.activitylistboxs{
+  width: 130px;
+  height: 130px;
+  /* margin-left: 34px;
+  margin-top: 32px;
+  margin-bottom: 20px; */
+  margin-left: 180px;
+  margin-bottom: 20px;
+  
+  background: #464646;
+  border-radius: 8px;
+}
+.headinglistss{
+  margin-left:40px;
+  /* margin-left:10%;
+  margin-top: 20%;
+width: 100%;
+height: 10px; */
+  font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 32px;
+
+/* Main Text */
+
+color: #D4DCE1;
+}
+.heads{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color: #D4DCE1;
+}
+.typeofworke{
+  /* margin-left:10%;
+  margin-top:2%; */
+
+
+   font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+/* line-height: 36px; */
+   color: #A3AAAE;
+
+}
+.typeofworkinge{
+  margin-left:10px;
+  /* margin-top: -12.5%; */
+  /* margin-top: -33px; */
+  
+
+ font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  /* line-height: 150%;  */
+
+  
+  color: #D4DCE1;
+
+
+}
+#actisheight{
+
+   margin-left: -120px;
+   margin-top:20px;
+   padding-bottom: 10px;
+   margin-right: -80%;
+   border-radius: 8px;
+  height: 250px;
+
+
+
+}
+.assignedbyes{
+  margin-left:40px;
+   
+      margin-bottom:10px;
+    
+     font-family: 'Mulish';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      /* line-height: 150%; 
+line-height: 23px; */
+color: #67737A;
+  }
+  .domainnamese{
+    /* margin-left:250%;
+
+    margin-top: -33px; */
+
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+/* line-height: 36px; */
+
+    color: #A3AAAE;
+}
+.domaintitlees{
+  margin-left: 10px;
+
+  width: 500px;
+   font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    /* line-height: 150%;  */
+
+    
+    color: #D4DCE1;
+}
+/* Leave Count */
+.startdatess{
+  /* margin-top: -30%; */
+  margin-left: -65%;
+  margin-right: 0%;
+}
+.enddatess{
+  margin-top: -40%;
+  margin-left: 45%;
+  margin-right: 0%;
+}
+
+.addactivityyess{
+  width: 110px;
+        height: 49px;
+  background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+border-radius: 4px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.addactivityys{
+  margin-left:130%;
+  margin-top: -39.5%;
+  font-family: 'Mulish';
+}
+.leavecountss{
+margin-left: -20px;
+  font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #D4DCE1;
+}
+.activitymemberss{
+  margin-left:45px;
+  margin-right:36px;
+  margin-top: 25px;
+
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 60px;
+color: #D4DCE1;
+}
+.fnames1 {
+  
+  /* margin-top: 52px; */
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+
+  /* Main Text */
+
+  color: #d4dce1;
+}
+.profileusers1 {
+  
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  /* Light Grey2 */
+
+  color: #a3aaae;
+}
+.unblockedusers1 {
+  
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #f8fbfc;
+}
+.blockusers1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #a3aaae;
+}
+.blocks1 {
+  background: #373b3d;
+  border-radius: 4px;
+  width: 220px;
+  height: 40px;
+  padding: 10px;
+}
+.unblocks1 {
+  width: 220px;
+  padding: 10px;
+  height: 40px;
+  background: linear-gradient(90deg, #d24a4a 0%, #cb3244 100%);
+  border-radius: 4px;
+}

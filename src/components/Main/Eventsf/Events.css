@@ -1,0 +1,173 @@
+
+.publishedCard{
+    background: #202328;
+}
+.eventHeader{
+    background-color: #202328;
+    border-radius: 20px;
+    padding: 80px;
+    margin: 10px;
+}
+.eventapplyHeader{
+    background-color: #202328;
+    border-radius: 20px;
+    padding: 80px;
+    margin: 10px;
+}
+.sharelinkstyle{
+    background-color: #333435;
+    color:rgb(201, 201, 201);
+    padding:10px;
+    height:100%;
+    width: 500px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+@media(max-width:1000px){
+    .questions{
+        display:flex;
+        flex-direction: column;
+    }
+}
+
+@media(min-width:600px)
+{
+    .profileMedia{
+           margin-left: 270px;
+    }
+    .addEventmain{
+        margin-left: 350px;
+        padding-right: 20vw;
+    }
+    .profileMediaeventapply{
+           margin-left: 270px;
+    }
+    .EventApplyMain{
+        margin-left: 350px;
+        padding-right: 20vw;
+    }
+
+}
+.toast-error-container {
+  font-family: Mulish;
+  height: 59px !important;
+  color: rgb(240, 233, 233) !important;
+  border-radius: 8px !important;
+  background: #dd4f4f !important;
+  border: 1px solid #520303 !important;
+  box-shadow: 0px 1px 5px rgba(248, 175, 175, 0.1) !important;
+}
+
+
+.DEvent,.PEvent,.NEvent,.Eventsuser{
+    margin-top: 100px;
+    margin-left: 19px;
+    margin-bottom: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    color: #D4DCE1;
+}
+.PEvent{
+    margin-top: 24px;
+    margin-bottom: 35px;
+}
+.pubImg{
+    /* background-image: url('../../../assets/img/bg5.jpeg'); */
+    width: 278px;
+    height: 130px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.eventName{
+    margin: 20px 10px 0px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
+    width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.StartTime,.EndTime{
+    margin: 10px 0px 0px 20px;
+}
+.coverImage{
+    height: 250px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.coverImageeventapply{
+    height: 250px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Eventsuser{
+    margin-top: 24px;
+    margin-bottom: 35px;
+}
+.EventuserImage{
+    width: 278px;
+    height: 130px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.eventNameuser{
+    margin: 20px 10px 0px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
+    width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.buttonpos{
+    margin-right: 0px;
+}
+.userStartTime{
+     margin: 10px 0px 0px 20px;
+}
+.userEndTime{
+    margin: 10px 0px 0px 20px;
+
+}
+.pop-content-delete {
+    background-color: #202328;
+    text-align: center;
+    align-items: center;
+}
+
+
+.deleteEvent{
+    color: white;
+    font-size: 26px;
+}
+@media (max-width:600px) {
+  
+    .profileMedia,.addEventmain {
+      width: 100% !important;
+    }
+    .profileMediaeventapply,.EventApplyMain {
+      width: 100% !important;
+    }
+    
+    
+  }
+

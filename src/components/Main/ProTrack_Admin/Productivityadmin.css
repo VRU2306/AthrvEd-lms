@@ -1,0 +1,806 @@
+/* Css of the table header color  */
+
+#colz{
+    background-color: #517279;
+    color: white;
+    font-weight: bold;
+}
+
+/* Css of the table cell color */
+
+#coloz{
+    color:white;
+    font-weight: bold;
+}
+
+#cella{
+    margin-left:10px;
+}
+
+.paperStyling1 {
+    margin-top: 54px;
+    margin-left: 250px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+
+  .paperStyling2 {
+    margin-left: 250px;
+    margin-bottom: 16px;
+    margin-right: 20px;
+
+  }
+
+  .paperStyling3 {
+    margin-left: 290px;
+    margin-bottom: 20px;
+  }
+
+
+/* *
+*
+* */
+/* WEEK  */
+/* All the css related to the admin week  */
+
+#heading1 {
+   padding-top: 60px;
+   /* width:110%; */
+   text-align: center;
+   /* padding-left: 455px; */
+   /* padding-left: 45%; */
+   /* padding-right: 440px; */
+   margin-bottom: 54px;
+   font-size: 32px;
+   font-weight: 700;
+   font-style: normal;
+   font-family: sans-serif;
+    
+}
+
+
+#weekly {
+    height: 596px;
+    /* width: 894px; */
+    /* width:70%;
+    height:100%; */
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 72px ;
+     
+}
+
+
+
+#startdate {
+    width: 242px;
+    height: 57px;
+    background-color: #373B3D;
+    padding-bottom: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+#enddate{
+    margin-left: 30px;
+    width: 242px;
+    height: 57px;
+    background-color: #373B3D;
+    padding-bottom: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+#startdater {
+    width: 242px;
+    height: 57px;
+
+    background-color: #373B3D;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+#enddater{
+    margin-left: 30px;
+    width: 242px;
+    height: 57px;
+    background-color: #373B3D;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+
+#selectuser{
+    margin-left: 64px;
+    width: 242px;
+    height: 57px;
+    background-color: #373B3D;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+
+.buttonsadmin{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* margin-left: 30%; */
+}
+
+.submitbuttonadmin{
+    border-radius: 5px;
+    margin-top: 36px;
+    /* margin-left: 46%; */
+}
+
+
+/* *
+*
+* */
+/* MONTH */
+/* All the css related to the monthly table and pie chart */
+
+#heading2 {
+   padding-top: 60px;
+   margin-bottom: 54px;
+   /* margin-left: 40%; */
+   text-align: center;
+   font-size: 32px;
+   font-weight: 700;
+   font-style: normal;
+   font-family: sans-serif;
+    
+}
+
+.tablemonth{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.adminmonthgraph {
+    width: auto;
+    margin: auto;
+    border-width: 50%;
+    margin-top: 3%;
+    height: 350px;
+    
+}
+
+/* *
+*
+* */
+/* YEAR */
+/* all the css part related to the admin year is here */
+
+#heading3 {
+    padding-top: 60px;
+    margin-bottom: 54px;
+    /* margin-left: 42%; */
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: sans-serif;
+     
+    
+}
+
+.adminyeargraph {
+    width: auto;
+    margin: auto;
+    border-width: 50%;
+    margin-top: 3%;
+    height: 350px;
+    margin-bottom: 4%;
+     
+}
+
+.tableyear{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* MEDIA QUESRISSSS MOBILE VIEWW ****************/
+
+@media (max-width: 480px){
+
+    
+.paperStyling1 {
+    margin-top: 10%;
+    margin-left: 3%;
+    /* padding-bottom: 20%; */
+  }
+
+  .paperStyling2 {
+    margin-left: 3%;
+    /* padding-bottom: 55%; */
+  }
+
+  .paperStyling3 {
+    margin-left: 3%;
+    margin-bottom: 45%;
+    /* padding-bottom: 15px; */
+    margin-top: -5%;
+  }
+
+  /* WEEK */
+
+  #heading1{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+    font-size: 25px;
+    
+}
+    .buttonsadmin {
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20%;
+        margin-left: -1%;
+    }
+
+
+    #weekly {
+        height: 530px;
+        width: auto;
+        padding-right: 4%;
+        margin-top: -2%;
+       }
+       
+       #table {
+           margin-top: 15%;
+       }
+   
+       #cssa {
+           margin-top: 2%;
+       }
+   
+       #startdate {
+           margin-left: 20%;
+           margin-bottom: 3%;
+       }
+   
+       #enddate{
+           margin-bottom: 3%;
+           margin-left: 20%;
+       }
+   
+       #startdater {
+        margin-left: 20%;
+        margin-bottom: 3%;
+    }
+
+    #enddater{
+        margin-bottom: 3%;
+        margin-left: 20%;
+    }
+       .submitbuttonadmin{
+           margin: auto;
+           margin-top: -3%;
+           margin-bottom: 10%;
+           margin-left: 0%;
+       }
+
+       #selectuser {
+           margin-left: 20%;
+       }
+
+       /* MONTH  */
+
+    #heading2 {
+    
+     
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        padding-left: 7%;
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminmonthgraph {
+        width: auto;
+        margin: auto;
+        margin-top: 10%;
+        height: 300px;
+    }
+
+    /* YEAR */
+
+    #heading3 {
+        margin-top: 20%;
+        margin-bottom: 18%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .adminyeargraph {
+        width: auto;
+        margin: auto;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        height: 300px;
+    }
+
+    #datepicker {
+        display: flex;
+    }
+    
+    .container2 {
+        margin-left: 3%;
+    }
+    
+    .container1 {
+        margin-left: 2%;
+    } 
+    
+    .buttons {
+         display: block
+    }
+    
+    
+}
+
+@media (min-width: 480px) and (max-width: 600px){
+   
+    .paperStyling1 {
+        margin-top: 8%;
+        margin-left: 3%;
+        /* padding-bottom: 20%; */
+      }
+    
+      .paperStyling2 {
+        margin-left: 3%;
+        /* padding-bottom: 75%; */
+        margin-top: 3%;
+        margin-right: 3%;
+      }
+    
+      .paperStyling3 {
+        margin-left: 1%;
+        margin-bottom: 5%;
+        /* padding-bottom: 15px; */
+      }
+    
+  
+   /* WEEK */
+
+    #heading1{
+        padding-top: 8%;
+        padding-bottom: 2%;
+        font-size: 25px;
+        width: 100%;  
+    }
+
+    .buttonsadmin {
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20%;
+        margin-left: -1%;
+    }
+
+
+    #weekly {
+        height: 530px;
+        width: auto;
+        padding-right: 5%;
+        padding-left: 2%;
+        margin-top: -2%;
+       }
+       
+       #table {
+           margin-top: 15%;
+       }
+   
+       #cssa {
+           margin-top: 2%;
+       }
+   
+       #startdate {
+           margin-left: 30%;
+           margin-bottom: 3%;
+       }
+   
+       #enddate{
+           margin-bottom: 3%;
+           margin-left: 30%;
+       }
+       #startdater {
+        margin-left: 30%;
+        margin-bottom: 3%;
+    }
+
+    #enddater{
+        margin-bottom: 3%;
+        margin-left: 30%;
+    }
+
+       #selectuser {
+        margin-left: 30%;
+    }
+       .submitbuttonadmin{
+           margin: auto;
+           margin-top: -8%;
+           margin-bottom: 10%;
+       }
+
+          /* MONTH  */
+
+    #heading2 {
+  
+        margin-bottom: 13%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 23%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminmonthgraph {
+        width: auto;
+        margin: auto;
+        margin-top: 7%;
+        height: 300px;
+    }
+    
+
+    /* YEAR */
+
+    #heading3 {
+  
+        margin-bottom: 13%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 30%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminyeargraph {
+        width: auto;
+        margin: auto;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        height: 300px;
+    }
+
+    #datepicker {
+        display: flex;
+    }
+    
+    .container2 {
+        margin-left: 3%;
+    }
+    
+    .container1 {
+        margin-left: 2%;
+    } 
+    
+    .buttons {
+         display: block
+    }
+    
+     
+}
+
+/* iPad */
+
+@media (min-width: 765px) and (max-width: 1024px){
+   
+    .paperStyling1 {
+        margin-top: 5%;
+        margin-left: 30%;
+        /* padding-bottom: 20%; */
+        margin-right: 3%;
+      }
+    
+      .paperStyling2 {
+        margin-left: 30%;
+        margin-right: 3%;
+        /* padding-bottom: 75%; */
+        margin-bottom: 3%;
+        margin-top: 3%;
+        padding-bottom: 0%;
+      }
+    
+      .paperStyling3 {
+        margin-left: 36%;
+        /* margin-bottom: 50%; */
+        /* padding-bottom: 15px; */
+      }
+    
+  
+   /* WEEK */
+
+    #heading1{
+        padding-top: 8%;
+        padding-bottom: 2%;
+        font-size: 25px;
+        width: 100%;  
+    }
+
+    .buttonsadmin {
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20%;
+        margin-left: -1%;
+    }
+
+
+    #weekly {
+        height: 530px;
+        width: auto;
+        padding-right: 5%;
+        padding-left: 2%;
+        margin-top: -2%;
+       }
+       
+       #table {
+           margin-top: 15%;
+       }
+   
+       #cssa {
+           margin-top: 2%;
+       }
+   
+       #startdate {
+           margin-left: 23%;
+           margin-bottom: 3%;
+       }
+   
+       #enddate{
+           margin-bottom: 3%;
+           margin-left: 23%;
+       }
+       #startdater {
+        margin-left: 23%;
+        margin-bottom: 3%;
+    }
+
+    #enddater{
+        margin-bottom: 3%;
+        margin-left: 23%;
+    }
+
+       #selectuser {
+        margin-left: 23%;
+      }
+
+       .submitbuttonadmin{
+           margin: auto;
+           margin-top: -8%;
+           margin-bottom: 10%;
+           margin-left: 0%;
+       }
+
+    /* MONTH  */
+
+    #heading2 {
+        /* margin-top: 400px; */
+        margin-bottom: 13%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 12%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminmonthgraph {
+        width: auto;
+        margin: auto;
+        margin-top: 7%;
+        height: 300px;
+    }
+    
+
+    /* YEAR */
+
+    #heading3 {
+        /* margin-top: 400px; */
+        margin-bottom: 13%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 23%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminyeargraph {
+        width: auto;
+        margin: auto;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        height: 300px;
+    }
+
+    #datepicker {
+        display: flex;
+    }
+    
+    .container2 {
+        margin-left: 3%;
+    }
+    
+    .container1 {
+        margin-left: 2%;
+    } 
+    
+    .buttons {
+         display: block
+    }
+    
+     
+}
+
+/* ipad pro */
+
+@media (min-width: 1024px) and (max-width: 1370px){
+   
+    .paperStyling1 {
+        margin-top: 5%;
+        margin-left:25%;
+        /* padding-bottom: 20%; */
+      }
+    
+      .paperStyling2 {
+        margin-left:25%;
+        /* padding-bottom: 75%; */
+        margin-top: 3%;
+        padding-bottom: 0%;
+        margin-bottom: 0%;
+        
+      }
+    
+      .paperStyling3 {
+        margin-left:28%;
+        margin-bottom: 72%;
+        /* padding-bottom: 15px; */
+      }
+    
+  
+   /* WEEK */
+
+    #heading1{
+        padding-top: 8%;
+        padding-bottom: 2%;
+        
+        font-size: 25px;
+        width: 100%;  
+    }
+
+    .buttonsadmin {
+        font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 15%;
+    }
+
+
+    #weekly {
+        height: 530px;
+        width: auto;
+        padding-right: 3%;
+        padding-left: 2%;
+        margin-top: -2%;
+       }
+       
+       #table {
+           margin-top: 15%;
+       }
+   
+       #cssa {
+           margin-top: 2%;
+       }
+   
+       #startdate {
+         margin-left: -2px;
+         width: 700px;
+         margin-right: 35px;
+       }
+   
+       #enddate{
+        margin-left: -2px;
+         width: 700px;
+         margin-right: 35px;
+       }
+       #startdater {
+        margin-left: -2px;
+        width: 700px;
+        margin-right: 35px;
+      }
+  
+      #enddater{
+       margin-left: -2px;
+        width: 700px;
+        margin-right: 35px;
+      }
+       #selectuser {
+        margin-left: -2px;
+        width: 700px;
+      }
+
+       .submitbuttonadmin{
+           margin: auto;
+           margin-top: -8%;
+           margin-bottom: 10%;
+       }
+
+    /* MONTH  */
+
+    #heading2 {
+        /* margin-top: 400px; */
+        margin-bottom: 10%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 26%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminmonthgraph {
+        width: auto;
+        margin: auto;
+        margin-top: 7%;
+        height: 300px;
+    }
+    
+
+    /* YEAR */
+
+    #heading3 {
+        /* margin-top: 400px; */
+        margin-bottom: 10%;
+        font-size: 25px;
+        width: 100%; 
+        padding-top: 7%;
+        /* padding-left: 32%; */
+        padding-bottom: 2%;
+        margin-left: -1%;
+    }
+
+    .adminyeargraph {
+        width: auto;
+        margin: auto;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        height: 300px;
+    }
+
+    #datepicker {
+        display: flex;
+    }
+    
+    .container2 {
+        margin-left: 3%;
+    }
+    
+    .container1 {
+        margin-left: 2%;
+    } 
+    
+    .buttons {
+         display: block
+    }
+    
+     
+}

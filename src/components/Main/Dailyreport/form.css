@@ -1,0 +1,756 @@
+.date-picker{
+    width: 193px;
+    height: 57px;
+}
+
+#ids{
+padding-left: 0px;
+}
+#ter{
+    width:228px;
+    height:30px;
+}
+
+
+.space{
+    padding-left: 23px;
+} 
+
+.grey{ 
+    font-size: 24px;
+    font-weight: bold;
+    color: #67737A;
+    text-align:left;
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+
+.workdes{
+    width:500px;
+}
+.dailyform{
+    /* width: 1107px; */
+height:800px;
+margin-top:20px;
+/* Base Colour 2 */
+margin-left: 5%;
+background: #202328;
+border-radius: 8px;
+}
+
+.dailyhead{
+margin-left: 5px;
+margin-top: 20px;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+
+}
+.dailytitle{
+width: 400px;
+margin-left:5px;
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+color: #A3AAAE;
+}
+.addactivityyes{
+width: 160px;
+      height: 49px;
+background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+border-radius: 4px
+}
+.dailyreportpending{
+margin-left:1%;
+margin-top:-6%
+}
+.dailyforms{
+  margin-top:-7%;
+  margin-left:1%;
+}
+      /* MAMGE */
+      .dailyformmamagement{
+        height:1430px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 2%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .dailyformpre{
+        height:1680px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 2%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .dailyformsoft{
+        height:1680px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 2%;
+        background: #202328;
+        border-radius: 8px;
+
+      }
+      .productdes{
+        height:1150px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 2%;
+        background: #202328;
+        border-radius: 8px;
+
+  }
+      .Subdomain{
+        width: 650px;
+        margin-left: 48px;
+        margin-top: 10px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 150%;
+        color: #A3AAAE;
+      }
+      .subdomainfield{
+        margin-left: 48px;
+        width: 250px;
+      }
+    
+      .description{
+        margin-left: 48px;
+        color: #67737A;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .descfield{
+          width:250px;
+         
+      }
+      .phonefield{
+        margin-left:48px;
+      }
+      .phonefields{
+        margin-left:48px;
+        color:#67737A;
+        width:500px;
+      }
+      .buttonsubnit{
+          margin-left: 48px;
+          margin-top:-20px;
+          padding-bottom: 20px;
+      }
+@media(min-width:1024px){
+    .dailyform{
+            /* width: 1107px; */
+    height:800px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 26%;
+    background: #202328;
+    border-radius: 8px;
+    }
+    .dailyhead{
+        margin-left: 48px;
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+        width: 500px;
+        /* Main Text */
+        
+        color: #D4DCE1;
+      
+    }
+    .dailytitle{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+    }
+    .addactivityyes{
+        width: 160px;
+              height: 49px;
+        background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+      border-radius: 4px
+      }
+      .dailyreportpending{
+        margin-left:7%;
+        margin-top:-6%
+      }
+      .dailyforms{
+          margin-top:2%;
+          margin-left:7%;
+      }
+            /* MAMGE */
+            .dailyformmamagement{
+                height:1430px;
+                margin-top:20px;
+                /* Base Colour 2 */
+                margin-left: 26%;
+                background: #202328;
+                border-radius: 8px;
+              }
+              .productdes{
+                height:1150px;
+                margin-top:20px;
+                /* Base Colour 2 */
+                margin-left: 26%;
+                background: #202328;
+                border-radius: 8px;
+        
+          }
+              .dailyformpre{
+                height:1550px;
+                margin-top:20px;
+                /* Base Colour 2 */
+                margin-left: 26%;
+                background: #202328;
+                border-radius: 8px;
+              }
+              .dailyformsoft{
+                height:1680px;
+                margin-top:20px;
+                /* Base Colour 2 */
+                margin-left: 26%;
+                background: #202328;
+                border-radius: 8px;
+              }
+              .Subdomain{
+                width: 650px;
+                margin-left: 48px;
+                font-family: Mulish;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 150%;
+            color: #A3AAAE;
+              }
+              .subdomainfield{
+                margin-left: 48px;
+                width: 250px;
+              }
+              .description{
+                margin-left: 48px;
+                color: #67737A;
+                font-size: 20px;
+                font-weight: bold;
+              }
+              .descfield{
+                  width:600px;
+                 
+              }
+              .phonefield{
+                margin-left:48px;
+              }
+              .phonefields{
+                margin-left:48px;
+                color:#67737A;
+                width:500px;
+              }
+              .buttonsubnit{
+                  margin-left: 48px;
+                  margin-top:-20px;
+                  padding-bottom: 20px;
+              }
+}
+@media(min-width:1200px){
+    .dailyform{
+            /* width: 1107px; */
+    height:800px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 22%;
+    background: #202328;
+    border-radius: 8px;
+    }
+    .dailyformpre{
+      height:1550px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 22%;
+        background: #202328;
+        border-radius: 8px;
+      }
+    .dailyhead{
+        margin-left: 48px;
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+        
+        /* Main Text */
+        
+        color: #D4DCE1;
+      
+    }
+    .dailytitle{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+    }
+    .addactivityyes{
+        width: 160px;
+              height: 49px;
+        background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+      border-radius: 4px
+      }
+      .dailyreportpending{
+        margin-left:6.3%;
+        margin-top:-6%
+      }
+      .dailyforms{
+          margin-top:2%;
+          margin-left:6.3%;
+      }
+      /* MAMGE */
+      .dailyformmamagement{
+        height:1430px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 22%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .productdes{
+        height:1150px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 22%;
+        background: #202328;
+        border-radius: 8px;
+
+  }
+  .dailyformsoft{
+    height:1680px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 22%;
+    background: #202328;
+    border-radius: 8px;
+  }
+      .Subdomain{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+      }
+      .subdomainfield{
+        margin-left: 48px;
+        width: 250px;
+      }
+      .description{
+        margin-left: 48px;
+        color: #67737A;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .descfield{
+          width:700px;
+         
+      }
+      .phonefield{
+        margin-left:48px;
+      }
+      .phonefields{
+        margin-left:48px;
+        color:#67737A;
+        width:500px;
+      }
+      .buttonsubnit{
+          margin-left: 48px;
+          margin-top:-20px;
+          padding-bottom: 20px;
+      }
+}
+@media screen and (min-width:1440px) and (max-width:1536px){
+    .dailyform{
+            /* width: 1107px; */
+    height:800px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 18%;
+    background: #202328;
+    border-radius: 8px;
+    }
+    .dailyformpre{
+      height:1550px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 18%;
+        background: #202328;
+        border-radius: 8px;
+      }
+    .dailyhead{
+        margin-left: 48px;
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+        
+        /* Main Text */
+        
+        color: #D4DCE1;
+      
+    }
+    .dailytitle{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+    }
+    .addactivityyes{
+        width: 160px;
+              height: 49px;
+        background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+      border-radius: 4px
+      }
+      .dailyreportpending{
+        margin-left:4.65%;
+        margin-top:-6%
+      }
+      .dailyforms{
+          margin-top:2%;
+          margin-left:4.65%;
+      }
+      /* MAMAGE */
+      .dailyformmamagement{
+        height:1430px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 18%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .Subdomain{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+      }
+      .productdes{
+        height:1150px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 18%;
+        background: #202328;
+        border-radius: 8px;
+
+  }
+  .dailyformsoft{
+    height:1680px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 18%;
+    background: #202328;
+    border-radius: 8px;
+  }
+      .subdomainfield{
+        margin-left: 48px;
+        width: 350px;
+      }
+      .description{
+        margin-left: 48px;
+        color: #67737A;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .descfield{
+          width:819px;
+         
+      }
+      .phonefield{
+        margin-left:48px;
+      }
+      .phonefields{
+        margin-left:48px;
+        color:#67737A;
+        width:500px;
+      }
+      .buttonsubnit{
+          margin-left: 48px;
+          margin-top:-20px;
+          padding-bottom: 20px;
+      }
+}
+@media(min-width:1600px){
+    .dailyform{
+            /* width: 1107px; */
+    height:800px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 16%;
+    background: #202328;
+    border-radius: 8px;
+    }
+    .dailyformpre{
+      height:1550px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 16%;
+        background: #202328;
+        border-radius: 8px;
+      }
+    .dailyhead{
+        margin-left: 48px;
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+        
+        /* Main Text */
+        
+        color: #D4DCE1;
+      
+    }
+    .dailytitle{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+    }
+    .addactivityyes{
+        width: 160px;
+              height: 49px;
+        background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+      border-radius: 4px
+      }
+      .dailyreportpending{
+        margin-left:4.65%;
+        margin-top:-6%
+      }
+      .dailyforms{
+          margin-top:2%;
+          margin-left:4.65%;
+      }
+      /* MANAGE */
+      .dailyformmamagement{
+        height:1430px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 16%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .dailyformsoft{
+        height:1680px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 16%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .productdes{
+        height:1150px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 16%;
+        background: #202328;
+        border-radius: 8px;
+
+  }
+      .Subdomain{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+      }
+      .subdomainfield{
+        margin-left: 48px;
+        width: 350px;
+      }
+      .description{
+        margin-left: 48px;
+        color: #67737A;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .descfield{
+          width:819px;
+         
+      }
+      .phonefield{
+        margin-left:48px;
+      }
+      .phonefields{
+        margin-left:48px;
+        color:#67737A;
+        width:500px;
+      }
+      .buttonsubnit{
+          margin-left: 48px;
+          margin-top:-20px;
+          padding-bottom: 20px;
+      }
+}
+@media(min-width:1920px){
+    .dailyform{
+            /* width: 1107px; */
+    height:800px;
+    margin-top:20px;
+    /* Base Colour 2 */
+    margin-left: 14%;
+    background: #202328;
+    border-radius: 8px;
+    }
+
+    .dailyhead{
+        margin-left: 48px;
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+        
+        /* Main Text */
+        
+        color: #D4DCE1;
+      
+    }
+    .dailytitle{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+    }
+    .addactivityyes{
+        width: 160px;
+              height: 49px;
+        background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+      border-radius: 4px
+      }
+      .dailyreportpending{
+        margin-left:5%;
+        margin-top:-6%;
+        margin-bottom:0;
+      }
+      .dailyforms{
+          margin-top:2%;
+          margin-left:5%;
+      }
+      /* mamagement */
+      .dailyformmamagement{
+        height:1430px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 14%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      /* pre */
+      .dailyformpre{
+        height:1550px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 14%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      .dailyformsoft{
+        height:1680px;
+        margin-top:20px;
+        /* Base Colour 2 */
+        margin-left: 14%;
+        background: #202328;
+        border-radius: 8px;
+      }
+      /* pro */
+      .productdes{
+            height:1150px;
+            margin-top:20px;
+            /* Base Colour 2 */
+            margin-left: 14%;
+            background: #202328;
+            border-radius: 8px;
+    
+      }
+      .Subdomain{
+        width: 650px;
+        margin-left: 48px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #A3AAAE;
+      }
+      .subdomainfield{
+        margin-left: 48px;
+        width: 500px;
+      }
+      .description{
+        margin-left: 48px;
+        color: #67737A;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .descfield{
+          width:819px;
+         
+      }
+      .phonefield{
+        margin-left:48px;
+      }
+      .phonefields{
+        margin-left:48px;
+        color:#67737A;
+        width:500px;
+      }
+      .buttonsubnit{
+          margin-left: 48px;
+          margin-top:-20px;
+          padding-bottom: 20px;
+      }
+}

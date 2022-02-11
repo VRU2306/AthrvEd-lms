@@ -1,0 +1,117 @@
+.calenderview{
+   position:relative;
+   bottom:0;
+    margin-top: 20px;
+    margin-left: 250px;
+    background-color:#0F1012;
+    
+    
+}
+.calnames{
+   margin-top: 40px;
+}
+.dropdown{
+   margin-left: 1200px;
+}
+
+.caldrop{
+  margin-left: 1000px;
+  width:10%;
+   
+}
+ /* @media(min-width:650px) and (max-width:900px){
+    
+   .calenderview{
+   margin-left: 250px;
+    
+    background-color:#0F1012;
+    
+   }
+   .caldrop{
+
+   margin-left: 300px;
+   width: 200px;
+   margin-bottom: 20px;
+}
+.calnames{
+margin-top: 20px;
+margin-bottom: 20px; 
+ margin-left: 40px;
+ 
+
+}
+} */
+
+
+/* @media(min-width:600px) and (max-width:650px){
+    
+   .calenderview{
+    margin-left: 250px;
+    background-color:#0F1012;
+    
+   }
+   .caldrop{
+
+   margin-left: 500px;
+   width: 200px;
+   margin-bottom: 20px;
+}
+.calnames{
+margin-top: 20px;
+margin-bottom: 20px; 
+ margin-left: 40px;
+ 
+
+}
+} */
+@media (min-width:600px) and (max-width:700px){
+   .caldrop{
+      width:75px;
+      margin-left: 200px; 
+   }
+   /* .calenderview{
+    margin-left: 250px;
+    background-color:#0F1012;
+    
+   } */
+}
+@media (min-width:700px) and (max-width:900px){
+   .caldrop{
+      width:100px;
+      margin-left: 200px; 
+   }
+   
+}
+
+ @media (min-width:900px) and (max-width:1200px){
+   .caldrop{
+      width:200px;
+      margin-left: 400px;
+   }
+}
+
+@media (min-width:1200px) and (max-width:1500px){
+   .caldrop{
+      width:200px;
+      margin-left: 650px;
+   }
+} 
+
+@media(min-width:1500px) and (max-width:1800px){
+   .caldrop{
+      width:200px;
+      margin-left: 1000px;
+   }
+}
+
+@media (max-width:600px){
+   .caldrop{
+      width:100px;
+      margin-left: 180px; 
+   }
+   .calenderview{
+    margin-left: 0px;
+    background-color:#0F1012;
+    
+   }
+}

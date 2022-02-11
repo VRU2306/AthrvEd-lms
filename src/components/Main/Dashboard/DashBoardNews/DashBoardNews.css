@@ -1,0 +1,240 @@
+.editIcons{
+  margin-top: -10%;
+  margin-left: 70%;
+}
+
+
+
+
+
+  .gallery-d{
+    
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-size: cover;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: fit-content;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    background-image: url('https://cdn.wallpapersafari.com/68/99/r9UYB8.jpg');
+
+
+    
+
+}
+
+.img-mm{
+  height: 100%;
+  max-width:50%;
+  float: left;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(252, 252, 252);
+
+  
+  /* width: 60vw; */
+
+}
+
+
+
+.card-td {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 4vh;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  /* padding-left: 10vw;
+  padding-right: 10vw; */
+  height: 40vh;
+  border: none;
+  background-position: center;
+  width: 90%;
+  
+  margin-left: 50px;
+  margin-right: 0px;
+  background-repeat: no-repeat;
+  
+
+}
+
+
+.carousel .slide img {
+  float: left;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border: 0;
+  
+}
+
+.news-gif{
+  width: 2px;
+  height: 2px;
+
+}
+
+
+
+.btn {
+    font-size: 5em;
+    background: none;
+    border: none;
+}
+
+.btn :hover {
+    border: none;
+    background: none;
+}
+
+.des-d {
+  float: right;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 100%;
+  width: 50%;
+  font-size: 1em;
+  padding-top: 10%;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgba(120, 186, 230, 0.596);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+.ticker {
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: rgb(231, 231, 240);
+  width: 100%;
+ padding-left: 50%;
+ padding-top: 30px;
+ background-color: rgba(127, 246, 255, 0.596);
+ background-image: url('https://www.clker.com/cliparts/a/1/5/6/14176048732142135907pink%20and%20orange%20strip%20wallpaper.png');
+  background-position:bottom;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.news {
+margin-left: 4%;
+margin-right: 0px;
+  width: 95%;
+}
+
+.carousel .control-dots{
+  height: 8%;
+}
+
+
+
+@media(max-width:360px){
+  #card-td{
+        
+         height:150px ;
+         margin: 0%;
+         padding-top: 10%;
+        margin-right: 20%;
+        margin-left: -10%;
+         width: 120%;
+         font-size: 0.6em;
+       
+         
+       }
+}
+@media(max-width:360px){
+  #gallery-d{
+          
+    margin: 0%;
+    border-radius: 0%;
+    width: 100%;
+
+       }
+}
+
+@media(max-width:360px){
+  #des-d{
+    padding-top: 10%;
+    font-size: 6px;
+
+       }
+}
+@media(max-width:375px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:411px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:414px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:393px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:1050px){
+  .editIcons{
+    margin-left: 60%;
+  }
+}
+@media(max-width:800px){
+  .editIcons{
+    margin-left: 50%;
+  }
+}
+@media(max-width:650px){
+  .editIcons{
+    margin-left: 30%;
+  }
+}
+@media(max-width:450px){
+  .editIcons{
+    margin-left: 10%;
+  }
+}
+@media(max-width:1800px){
+  .news {
+    margin-left: 8%;
+      width: 95%;
+    }
+}
+@media(max-width:1500px){
+  .news {
+    margin-left: 12%;
+      width: 95%;
+    }
+}
+@media(max-width:1200px){
+  .news {
+    margin-left: 15%;
+      width: 95%;
+    }
+}
+@media(max-width:600px){
+  .news{
+    margin-left:-18%;
+    width:130%;
+   
+  }
+}
+

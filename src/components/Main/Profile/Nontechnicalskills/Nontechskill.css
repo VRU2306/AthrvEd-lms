@@ -1,0 +1,20 @@
+.nontechskillhead{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+}
+.submitnontechskillino{
+    margin-right: 1%;
+}
+.submitnontechskillyes{
+    margin-right: 7%;
+}

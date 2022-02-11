@@ -1,0 +1,166 @@
+#upload-photo{
+  display: block;
+}
+
+.gallery{
+    
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+
+    
+
+}
+
+.editdialgognews{
+    width: 550px;
+    background-color: #202328 !important;
+    padding: 20px 0px 0px 30px;
+    /* color:grey; */
+}
+.editnewstitle{
+  border-radius: 2px;
+    padding-left: 1vw;
+    font-size: 1.8rem;
+    color: #67737A;
+    font-weight: bold;
+}
+
+/* 
+editname{
+  color: #67737A;
+}
+ */
+
+.editnewsname{
+    border-radius: 5px;
+    padding-top: 4vh;
+    width: 100%;
+    margin-right: 20vw;
+    margin-top: 2vw;
+    color:grey;
+
+}
+
+
+.btn-Delete{
+
+    
+    margin-top: 30px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.btn-Edit {
+  margin-top: 0px;
+  border-radius: 4px;
+  margin-right: 2px;
+  
+}
+
+/* .addNews {
+  background-color:aqua;
+  border-radius: 2px;
+  padding-left: 1vw;
+  font-size: 1.8rem;
+} */
+
+
+
+
+.card-t {
+  margin: 3vw;
+  width: 45vh;
+  margin-bottom: 4vh;
+}
+
+.img {
+    align-self: center;
+    height: 30vh;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    /* width: 60vw; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+/* .image {
+    height: 50%;
+    align-items: center;
+    font-size: 0.6em;
+    text-align: center;
+    width: 50%;
+
+} */
+
+.btn {
+    font-size: 5em;
+    background: none;
+    border: none;
+}
+
+.btn :hover {
+    border: none;
+    background: none;
+}
+
+
+.des {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-bottom: 30px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 20vh;
+}
+
+
+@media(max-width:360px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:320px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:375px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:411px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:414px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+@media(max-width:393px){
+  #butter{
+          margin-left: 180px;
+          padding-left: 0px;
+       
+         
+       }
+}
+

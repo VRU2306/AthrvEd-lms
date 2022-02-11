@@ -1,0 +1,31 @@
+.Leavenotehead{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+}
+.applyingnow{
+    margin-top: 5%;
+    margin-left: -20%;
+    margin-right:5% ;
+}
+.applylater{
+    margin-top: 5%;
+    margin-right:15% ;
+}
+.applyinglater{
+    width: 160px;
+    height: 49px;
+}
+.applynow{
+    width: 160px;
+    height: 49px;
+    background: linear-gradient(89.47deg, #259E3F 0.3%, #249566 104.07%);
+}

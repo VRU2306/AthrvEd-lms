@@ -1,0 +1,3575 @@
+
+.qulaiheading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #67737A;
+}
+.userprofileheading{
+    margin-left: 1%;
+    margin-top: 20px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+/* margin-right: 54px; */
+
+/* Main Text */
+
+color: #D4DCE1;
+}
+/* image */
+/* .imageledt{
+    margin-left: 70%;
+
+} */
+input[type=file]{
+    display: none;
+}
+.imageedit{
+    position:relative;
+    outline: none;
+    bottom: 0;
+    /* margin:100px; */
+    justify-content: center;
+    margin-bottom: 500px;
+    color: transparent;
+    width: 100px;
+
+    margin-left: 100px;
+    /* padding-left: 20px; */
+    box-sizing: border-box;
+    padding: 50px;
+    cursor: pointer;
+    transition: 0.5s;
+    /* background: rgba(0,0,0,0.5); */
+    background-image: url('../../../../Icons/imageedit.svg');
+    background-repeat: no-repeat;
+ 
+}
+
+
+/* name */
+.Name{
+/* margin-top: -13%; */
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+color: #67737A;
+} 
+.Bio{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+} 
+.Email{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+} 
+.mbnum{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.genderm{
+margin-top: 1.45%;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.dept{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.semseter{
+margin-top: 1.45%;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.education{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.techskills{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.nontechskills{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.Addressline1{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.Addressline2{
+margin-top: 20px;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.city{
+
+    margin-top: 20px;
+    margin-left: 1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+
+}
+.state{
+    margin-top: 20px;
+    margin-left: 1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.district{
+margin-top: 1.45%;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.pincode{
+margin-top: 1.45%;
+margin-left: 1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+/* education and skills */
+.educate{
+background-color: #202328;
+margin-left:1%;
+margin-top:20px;
+border-radius: 8px;
+margin-bottom: 20px;
+
+height:195px;
+}
+.noeducation{
+margin-left:1%;
+font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+margin-left:5%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+margin-left:5%;
+font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+    margin-right: 54px;
+background-color: #373B3D;
+border-radius: 4px;
+width: 120px;
+height: 49px;
+}
+.edueidts{
+margin-top: -25%;
+margin-left: 45%;
+}
+.edudeletes{
+margin-top: -10%;
+margin-left: 45%;
+}
+.edudelete{
+
+
+border-radius: 4px;
+width: 120px;
+height: 49px;
+}
+/* skills */
+.techskillsss{
+width: 160px;
+
+height: 49px;
+margin-left:1%;
+margin-top:1px;
+margin-right: 1.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+
+}
+
+.techskis{
+ 
+  margin-top: 10px;
+  padding-left: 5px;
+  justify-content: center;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #ffffff;
+
+}
+/* div */
+/* .phonespace{
+margin-left: 1%;
+
+} */
+.phonespacegen{
+margin-left: 1%;
+margin-top: -18px;
+
+}
+.phonespacesem{
+margin-left: 1%;
+margin-top: -18px;
+
+}
+.phonespacename{
+    margin-left: 38.9%;
+    margin-top: -19.5%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 140px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 140px;
+
+    border-radius: 4px;
+}
+.biofield{
+background-color: #202328;
+width:280px;
+
+border-radius: 4px;
+}
+.emailfield{
+background-color: #202328;
+width: 280px;
+
+border-radius: 4px;
+}
+.phonefield{
+border-radius: 4px;
+background-color: #202328;
+width: 280px;
+}
+.genderfield{
+background-color: #202328;
+width:280px;
+
+border-radius: 4px;
+}
+.deptfield{
+background-color: #202328;
+width: 280px;
+
+border-radius: 4px;
+}
+.semfield{
+background-color: #202328;
+width: 280px;
+border-radius: 4px;
+}
+.cityfield{
+background-color: #202328;
+width: 280px;
+border-radius: 4px;
+}
+.distfield{
+background-color: #202328;
+width: 280px;
+border-radius: 4px;
+}
+.statefield{
+background-color: #202328;
+width: 280px;
+border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 280px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 280px;
+
+    border-radius: 4px;
+}
+.pinfield{
+background-color: #202328;
+width:280px;
+border-radius: 4px;
+}
+.verifyemail{
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+margin-left: 0.1%;
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+width: 160px;
+      height: 49px;
+background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+border-radius: 4px
+}
+.submits{
+margin-left:1%;
+margin-top: 2%;
+font-family: 'Mulish';
+}
+
+@media(min-width:1024px){
+    .userprofileheading{
+        margin-left: 25%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -25%;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -10.4%;
+    margin-left: 50%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -10.4%;
+    margin-left:50%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left:25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 25%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 25%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 25%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -10.4%;
+    margin-left: 50%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -10.4%;
+    margin-left: 50%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:25%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:25%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:5%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:5%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 45%;
+}
+.edudeletes{
+    margin-top: -12%;
+    margin-left: 45%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:25%;
+margin-top:1px;
+margin-right: -24.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+     
+      margin-top: 10px;
+      padding-left: 5px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 25%;
+    
+} */
+.phonespacegen{
+    margin-left:50%;
+    margin-top: 1.8px;
+    
+}
+.phonespacesem{
+    margin-left: 50%;
+    margin-top: 1.8px;
+    
+}
+.phonespacename{
+    margin-left: 46.9%;
+    margin-top: -7.35%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 220px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 220px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 450px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 450px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:26%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+
+}
+
+@media(min-width:1200px){
+    .userprofileheading{
+        margin-left: 22%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -20%;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left:22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -8.8%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -8.8%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left:22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 22%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 22%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -8.8%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -8.8%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:22%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:22%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:5%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:5%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 55%;
+}
+.edudeletes{
+    margin-top: -15%;
+    margin-left: 55%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:22%;
+margin-top:1px;
+margin-right: -20.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+     
+      margin-top: 10px;
+      padding-left: 5px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 22%;
+    
+} */
+.phonespacegen{
+    margin-left: 48%;
+    margin-top: 1.5px;
+    
+}
+.phonespacesem{
+    margin-left: 48%;
+    margin-top: 1.5px;
+    
+}
+/* validators */
+.phonespacename{
+    margin-left: 43%;
+    margin-top: -6.4%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 560px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 560px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:22%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+}
+@media(min-width:1320px){
+    .userprofileheading{
+        margin-left: 22%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -20%;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left:22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -7.9%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -7.9%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left:22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 22%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 22%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 22%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -7.9%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -7.9%;
+    margin-left: 48%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:22%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:22%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:5%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:5%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 45%;
+}
+.edudeletes{
+    margin-top: -11%;
+    margin-left: 45%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:22%;
+margin-top:1px;
+margin-right: -20.5%;
+margin-bottom: 20px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+     
+      margin-top: 10px;
+      padding-left:3px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 22%;
+    
+} */
+.phonespacegen{
+    margin-left: 48%;
+    margin-top: 0px;
+    
+}
+.phonespacesem{
+    margin-left: 48%;
+    margin-top: 0px;
+    
+}
+/* validators */
+.phonespacename{
+    margin-left: 41.2%;
+    margin-top: -5.8%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 560px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 560px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:22%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+}
+@media screen and (min-width:1440px) and (max-width:1600px){
+    .userprofileheading{
+        margin-left: 18%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -15%;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -7.45%;
+    margin-left: 38%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -7.45%;
+    margin-left: 38%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 18%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 18%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 18%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -7.45%;
+    margin-left: 38%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -7.45%;
+    margin-left: 38%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:18%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:18%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:2%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:2%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 50%;
+}
+.edudeletes{
+    margin-top: -15%;
+    margin-left: 50%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:18%;
+margin-top:1px;
+margin-right: -17.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+     
+      margin-top: 10px;
+      padding-left: 5px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 18%;
+    
+} */
+.phonespacegen{
+    margin-left: 38%;
+    margin-top: 0.2px;
+    
+}
+.phonespacesem{
+    margin-left: 38%;
+    margin-top: 0.2px;
+    
+}
+/* validators */
+.phonespacename{
+    margin-left: 35.6%;
+    margin-top: -5.3%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 540px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 540px;
+
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:18%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+}
+@media(min-width:1500px){
+    /* .phonespace{
+        margin-left: 18%;
+        
+    } */
+    .phonespacegen{
+        margin-left: 38%;
+        margin-top:0px;
+        
+    }
+    .phonespacesem{
+        margin-left: 38%;
+        margin-top:0px;
+        
+    }
+    /* validators */
+    .phonespacename{
+        margin-left: 35%;
+        margin-top: -5.1%;
+        
+    }
+    .district{
+        margin-top: -7%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    }
+    .pincode{
+        margin-top: -7%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    }
+    .genderm{
+        margin-top: -7%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+     }
+     .semseter{
+        margin-top: -7%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+     }
+}
+@media(min-width:1536px){
+    /* .phonespace{
+        margin-left: 18%;
+        
+    } */
+    .phonespacegen{
+        margin-left: 38%;
+        margin-top:0.2px;
+        
+    }
+    .phonespacesem{
+        margin-left: 38%;
+        margin-top:0.2px;
+        
+    }
+    /* validators */
+    .phonespacename{
+        margin-left: 34.5%;
+        margin-top: -4.96%;
+        
+    }
+    .district{
+        margin-top: -6.8%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    }
+    .pincode{
+        margin-top: -6.8%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    }
+    .genderm{
+        margin-top: -6.8%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+     }
+     .semseter{
+        margin-top: -6.8%;
+        margin-left: 38%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+     }
+}
+@media(min-width:1600px){
+    .userprofileheading{
+        margin-left: 16%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -15%;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -7.02%;
+    margin-left: 36%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -7.02%;
+    margin-left: 36%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 16%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 16%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 16%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -7.02%;
+    margin-left: 36%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -7.02%;
+    margin-left: 36%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:16%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:16%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:5%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:5%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 55%;
+}
+.edudeletes{
+    margin-top: -15%;
+    margin-left: 55%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:16%;
+margin-top:1px;
+margin-right: -15.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+     
+      margin-top: 10px;
+      padding-left: 5px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 16%;
+    
+} */
+.phonespacegen{
+    margin-left: 36%;
+    margin-top: 1.8px;
+    
+}
+.phonespacesem{
+    margin-left: 36%;
+    margin-top: 1.8px;
+    
+}
+/* validators */
+.phonespacename{
+    margin-left: 31.9%;
+    margin-top: -4.8%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 570px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 570px;
+
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:16%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+}
+@media(min-width:1920px){
+    .userprofileheading{
+        margin-left: 14%;
+        margin-top: 20px;
+        font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* Main Text */
+
+color: #D4DCE1;
+    }
+    /* image */
+    /* .imageledt{
+        margin-left: 70%;
+
+    } */
+    /* input[type=file]{
+        display: none;
+    } */
+    /* name */
+ .Name{
+    margin-top: -13%;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Bio{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .Email{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ } 
+ .mbnum{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .genderm{
+    margin-top: -5.45%;
+    margin-left: 34%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .dept{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .semseter{
+    margin-top: -5.45%;
+    margin-left: 34%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .education{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .techskills{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .nontechskills{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline1{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .Addressline2{
+    margin-top: 20px;
+    margin-left: 14%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+ }
+ .city{
+
+        margin-top: 20px;
+        margin-left: 14%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+    
+ }
+ .state{
+        margin-top: 20px;
+        margin-left: 14%;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    
+     color: #67737A;
+ }
+.district{
+    margin-top: -5.45%;
+    margin-left: 34%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+.pincode{
+    margin-top: -5.45%;
+    margin-left: 34%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+ color: #67737A;
+}
+/* education and skills */
+.educate{
+    background-color: #202328;
+    margin-left:14%;
+    margin-top:20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+margin-right: 54px;
+height:195px;
+}
+.noeducation{
+    margin-left:14%;
+    font-family: Mulish;
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #67737A;
+
+}
+.educationqualihead{
+    margin-left:10%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+width: 500px;
+/* Main Text */
+
+color: #D4DCE1;
+}
+.educationqualicollege{
+    margin-left:10%;
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+
+
+color: #D4DCE1;
+}
+.eduedit{
+
+    background-color: #373B3D;
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+.edueidts{
+    margin-top: -25%;
+margin-left: 60%;
+}
+.edudeletes{
+    margin-top: -15%;
+    margin-left: 60%;
+}
+.edudelete{
+    
+  
+    border-radius: 4px;
+    width: 160px;
+    height: 49px;
+}
+/* skills */
+.techskillsss{
+    width: 160px;
+    display: grid;
+    grid-row: row;
+    height: 49px;
+margin-left:14%;
+margin-top:1px;
+margin-right: -13.5%;
+margin-bottom: 10px;
+border-radius: 4px;
+background-color:#202328;
+  
+  }
+  
+  .techskis{
+      margin-left:2px;
+      margin-top: 10px;
+      padding-left: 15px;
+      justify-content: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+  }
+ /* div */
+/* .phonespace{
+    margin-left: 14%;
+    
+} */
+.phonespacegen{
+    margin-left: 34%;
+    margin-top: -1.5px;
+    
+}
+.phonespacesem{
+    margin-left: 34%;
+    margin-top: -1.5px;
+    
+}
+.phonespacename{
+    margin-left: 27.2%;
+    margin-top: -3.95%;
+    
+}
+/* validators */
+.Namefield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.Name2field{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.biofield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.emailfield{
+    background-color: #202328;
+    width: 500px;
+
+    border-radius: 4px;
+}
+.addressfield1{
+    background-color: #202328;
+    width: 630px;
+
+    border-radius: 4px;
+}
+.addressfield2{
+    background-color: #202328;
+    width: 630px;
+
+    border-radius: 4px;
+}
+.phonefield{
+    border-radius: 4px;
+    background-color: #202328;
+    width: 250px;
+}
+.genderfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.deptfield{
+    background-color: #202328;
+    width: 250px;
+
+    border-radius: 4px;
+}
+.semfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.cityfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.distfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.statefield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.pinfield{
+    background-color: #202328;
+    width: 250px;
+    border-radius: 4px;
+}
+.verifyemail{
+
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #F4483D;
+}
+.verified{
+    margin-left: 0.1%;
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #7DE38D;
+}
+.submitss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+  .submits{
+    margin-left:14%;
+    margin-top: 2%;
+    font-family: 'Mulish';
+  }
+
+}
+/* submit popup */
+.upadtehead{
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+margin-top: 10px;
+margin-left: 72px;
+font-size: 28px;
+line-height: 150%;
+/* identical to box height, or 42px */
+
+
+/* Main Text */
+
+color: #D4DCE1;
+}
+.upadtedialog{
+    font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+text-align: center;
+
+/* Light Grey2 */
+
+color: #A3AAAE;
+}
+.submitsss{
+    width: 160px;
+          height: 49px;
+    background: linear-gradient(0deg, #2D66BD, #2D66BD), linear-gradient(90deg, #2B7CAA 0%, #2B4BAA 100%);
+  border-radius: 4px
+  }
+
+  .cancelprofile{
+    width: 160px;
+    height: 49px;
+  }
+  .profileName{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #67737A;
+    margin-top: 20px;
+  }
+  .Namefieldprofile{
+    background-color: #202328;
+  }
+ 
+  .userprofilesetting{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    margin-top: 20px;
+    margin-left: 300px;
+    color:white;
+
+  }
+  .verifiedprofile{
+    /* margin-left: 0.1%; */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #7DE38D;
+    }
+    .genderm1{
+        margin-top: 20px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px;
+        
+        
+        color: #67737A;}
+
+.noeducation1
+{
+    font-family: Mulish;
+            font-style: italic;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 130%;
+            /* or 31px */
+            
+            
+            color: #67737A;
+}
+.education1,.techskills1,.nontechskills1{
+margin-top: 20px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+
+color: #67737A;
+}
+.Biofieldprofile{
+    background-color: #202328;
+  }
+.screenMb {
+    display: flex !important;
+  }
+
+  .screenDT {
+    display: none !important;
+  }
+  @media (min-width:1000px) {
+
+    .screenDT {
+      display: flex !important;
+    }
+  
+    .screenMb {
+      display: none !important;
+    }
+}
+.educate1{
+    background-color: #202328;
+    
+    border-radius: 8px;
+    margin-bottom: 20px;
+    
+    /* height:195px; */
+}
+.techskillsss1{
+    width: 160px;
+
+/* height: 49px; */
+border-radius: 4px;
+background-color:#202328;
+margin-right: 10px;
+margin-bottom: 20px;
+padding: 10px;
+}
+.techskis1{
+      margin-top: 10px;
+        /* padding-left: 5px; */
+        justify-content: center;
+      font-family: Mulish;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 19px;
+      line-height: 25px;
+      /* identical to box height */
+      
+      max-width: 105%;
+    overflow-wrap: break-word;
+      color: #ffffff;
+   
+}
+.educationqualihead1{
+    font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 35px;
+
+/* width: 500px; */
+margin-left: 12px;
+color: #D4DCE1;
+}
+.educationqualicollege1{
+    font-family:Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+width: 500px;
+/* identical to box height, or 36px */
+margin-left: 12px;
+
+
+color: #D4DCE1;
+}
+@media (min-width:599px) {
+
+    /* .screenDT {
+      display: flex !important;
+    }
+  
+    .screenMb {
+      display: none !important;
+    } */
+    .spaceName{
+        display: flex;
+      flex-direction: row;
+    }
+    .Biofieldprofile{
+        background-color: #202328;
+        width: 496px;
+      }
+  
+  }
+  @media(max-width:599px){
+    .userprofilesetting{
+        margin-left: 20px;
+        margin-bottom: 10px;
+      }
+      
+  }

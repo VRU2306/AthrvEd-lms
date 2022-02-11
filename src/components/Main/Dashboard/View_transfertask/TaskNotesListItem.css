@@ -1,0 +1,170 @@
+.tasklist{
+    background: #202328;
+    margin-top: 1%;
+    border-radius: 8px;
+    margin-bottom: 16px;
+ }
+ /* .tasklistbox{
+    width: 140px;
+    height: 140px;
+    background: #E38181;
+    border-radius: 8px;
+    padding-top: 56px;
+    margin-left:32px;
+    margin-top: 29px;
+    margin-bottom: 27px;
+} */
+
+.taskdate{
+    width: 99px;
+    height: 28px;
+    margin-left:21px ;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    color: #B71A2C;
+}
+
+.head{
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 48px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #D4DCE1;
+}
+
+.assignedOn,.assignedBy{
+    height: 30px;
+    text-align: left;
+    margin-left: 48px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    color: #A3AAAE;
+}
+
+.assignedContent{
+    height: 30px;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: #D4DCE1;
+}
+
+.assignedto{
+    height: 23px;
+    margin-left: 48px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #67737A;
+}
+
+.assignedbyperson{
+    height: 23px;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #67737A;
+}
+
+.progressbar{
+    height: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #5ABC64;
+    margin-left: 88%;
+}
+
+.taskbox{
+    /* width: 140px;
+    height: 140px;
+    background: #E38181;
+    border-radius: 8px;
+    padding-top: 56px;
+    margin-left:32px;
+    margin-top: 29px;
+    margin-bottom: 27px; */
+    
+    width: 140px;
+    height: 140px;
+    background: #E38181;
+    border-radius: 8px;
+    padding-top: 56px;
+    margin-left:23%;
+    margin-top: 20%;
+    margin-bottom: 18%;
+}
+
+.transfertask{
+    background-image: linear-gradient(to right, #259E3F,  #249566) ;
+    border:none;
+    float:right;
+    color: #D4DCE1;
+    margin-top:-120px;
+    font-size: 100%;
+    font-weight: bold;
+    width: 175px;
+    height:49px;
+    cursor:pointer;
+}
+
+@media(max-width:1200px){
+    .transfertask{
+        margin-top:-75px;
+    }
+    .taskbox{
+        
+        margin-top:30px;
+        margin-bottom: 0px;
+        margin-left: 350px;
+    }
+    .progressbar{
+        margin-left: 82%;
+    }
+}
+@media(max-width:800px){
+    .transfertask{
+        margin-top:0px;
+        float:left;
+        margin-left:40%;
+        margin-top:10%;
+    }
+    .taskbox{
+        margin-left:40%;
+        margin-top:30px;
+    }
+}
+@media(max-width:500px){
+    .transfertask{
+        margin-top:0px;
+        float:left;
+        margin-left:22px;
+        margin-top:10px;
+    }
+    .taskbox{
+        margin-top:20px;
+        margin-left:90px;
+        margin-bottom: 0px;
+    }
+    .progressbar{
+        margin-left: 65%;
+    }
+    .head{
+        margin-top: 30px;
+    }
+    .assignedOn,.assignedContent{
+        margin-left:0px;
+    }
+    .head,.assignedto{
+        margin-left:22px;
+    }
+    .assignedinfo{
+        margin-left:22px;
+    }
+}

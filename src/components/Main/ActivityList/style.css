@@ -1,0 +1,166 @@
+.activitylistbox{
+    width: 130px;
+    height: 130px;
+    margin-left: 34px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+    background: #464646;
+    border-radius: 8px;
+}
+
+.activitymembers{
+    margin-left:34%;
+    margin-right:36px;
+    margin-top: 25px;
+    width: 100px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    color: #D4DCE1;
+}
+
+.members{
+    margin-left: 25%;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #A3AAAE;
+}
+
+.linktoactivity{
+    text-decoration: none;
+}
+
+.headinglist{
+    margin-left:40px;
+    margin-top: 32px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    width: 400px;
+    /* Main Text */
+    color: #D4DCE1;
+}
+
+.head{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #D4DCE1;
+}
+
+
+.typeofwork{
+    margin-left:90px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #A3AAAE;
+}
+
+.typeofworking{
+    margin-left:10px;
+    margin-right: 61px;
+    width: 400px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;  
+    color: #D4DCE1;
+}
+
+.domainname{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    width:500px;
+    color: #A3AAAE;
+}
+
+.domaintitle{
+    margin-left:10px;
+    width:500px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px; 
+    color: #D4DCE1;
+}
+
+.assignedby{
+    margin-left:90px;
+    margin-top: 30px;
+    margin-bottom: 36px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #67737A;
+} 
+    
+.imagenoactivity{
+    width: 400px;
+    height: 154px;
+    margin-left: 45%;
+    mix-blend-mode: normal;
+}
+
+.noactivitytext{
+    margin-left:40%;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    text-align: center;
+    color: #A3AAAE;
+}
+@media(max-width:1500px){
+    .activitylistbox{
+        margin-left: 90px;
+    }
+}
+
+
+@media(max-width:500px){
+    .activitylistbox{
+        margin-left:100%;
+    }
+    .headinglist{
+        margin-left:14px;
+    }
+    .typeofwork{
+        margin-left: 35px;
+    }
+    .domainname{
+        margin-left: 35px;
+        margin-top: 10px;
+        display: block;
+    }
+    .domaintitle{
+        display: block;
+        margin-top:-25px;
+        margin-left: 125px;
+        width:250px;
+    }
+    .assignedby{
+        margin-left:33px;
+    }
+}
+@media(max-width:400px){
+    .activitylistbox{
+        margin-left:70%;
+    }
+}
